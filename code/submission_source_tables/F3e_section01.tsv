@@ -1,0 +1,9 @@
+#start_row=1	cols=9
+S:Source	S:panel_review_SRdown_bothFDR_matched/F3e_bothFDR_fisher_summary.csv	N:	N:	N:	N:	N:	N:	N:
+S:Description	S:Fig. 3e dual-FDR SR-down x neuronal aging-down Venn/Fisher statistics.	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:group	S:universe_n	S:set_a_n	S:set_b_n	S:overlap_n	S:set_a_only_n	S:set_b_only_n	S:fisher_OR	S:fisher_p
+S:Excitatory neurons	D:13930	D:1691	D:1095	D:201	D:1490	D:894	D:1.71181321618486	D:0.000000000349149928773386
+S:Inhibitory neurons	D:13930	D:1691	D:877	D:127	D:1564	D:750	D:1.24388546075463	D:0.0177844606300142
+N:	N:	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:

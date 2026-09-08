@@ -1,0 +1,13 @@
+#start_row=14405	cols=2
+S:Source	S:analysis metadata
+S:Description	S:Reactome procedure, thresholds, correction, and background for Supplementary Fig. 3b.
+N:	N:
+S:item	S:value
+S:analysis_version	S:Participant-aware dual-FDR human blood SR-down analysis
+S:SR_down_definition	S:Participant-aware human blood SR-down: phase-adjusted log2FC < 0, phase-model BH FDR < 0.05, delta MESOR < 0, and MESOR BH FDR < 0.05.
+S:repeated_measures_model	S:Participant-aware cosinor model: expression ~ condition + sin(2*pi*phase/24) + cos(2*pi*phase/24) + condition:sin(2*pi*phase/24) + condition:cos(2*pi*phase/24), fitted with limma duplicateCorrelation and participant identity as the repeated-measures block.
+S:Reactome_procedure	S:Fisher/Reactome over-representation analysis.
+S:Reactome_display_threshold	S:Nominal Reactome P < 0.05 and at least two overlapping genes for displayed network terms.
+S:Reactome_background_universe	S:Reactome-mapped genes from the 13,930-gene Fig. 3e shared universe; row-specific BgRatio denominator = 8,885.
+S:Reactome_multiple_testing	S:Benjamini-Hochberg FDR across all tested Reactome terms; raw P and BH FDR are both reported.
+S:network_selection	S:Representative nonredundant terms were selected from qualifying terms; no HSF1/proteostasis or contextual terms were forced.

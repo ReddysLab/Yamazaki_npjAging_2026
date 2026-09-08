@@ -1,0 +1,5 @@
+#start_row=1	cols=9
+S:Source	S:Takasugi et al. 2024 public RNA/proteomics measurements and final trajectory/convergence outputs	N:	N:	N:	N:	N:	N:	N:
+S:Description	S:Curated meta-analysis table: one row per tissue-gene combination in the complete concordant RNA-protein aging-decline universe, with RNA, WTL and LSF trajectory slopes and participant-aware SR-convergence flags. Panel-specific age means are retained in F4d and related source-data sheets.	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:tissue	S:gene	S:RNA_trajectory_slope	S:WTL_trajectory_slope	S:LSF_trajectory_slope	S:protein_layers_down	S:RNA_protein_aging_decline	S:participant_aware_SR_down	S:SR_aging_convergence

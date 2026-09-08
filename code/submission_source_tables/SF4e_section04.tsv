@@ -1,0 +1,11 @@
+#start_row=16825	cols=2
+S:Source	S:analysis metadata
+S:Description	S:Definitions, test, correction, and background universe for Supplementary Fig. 4e.
+N:	N:
+S:item	S:value
+S:analysis_version	S:Participant-aware dual-FDR human blood SR-down analysis
+S:SR_down_definition	S:Participant-aware human blood SR-down: phase-adjusted log2FC < 0, phase-model BH FDR < 0.05, delta MESOR < 0, and MESOR BH FDR < 0.05.
+S:repeated_measures_model	S:Participant-aware cosinor model: expression ~ condition + sin(2*pi*phase/24) + cos(2*pi*phase/24) + condition:sin(2*pi*phase/24) + condition:cos(2*pi*phase/24), fitted with limma duplicateCorrelation and participant identity as the repeated-measures block.
+S:Fisher_test	S:One-sided Fisher's exact test for enrichment (alternative = greater).
+S:Fisher_background_universe	S:15,442 genes present in both the participant-aware Moller-Levet analysis and JenAge healthy-blood aging analysis.
+S:multiple_testing	S:Gene-level phase-model and MESOR P values were adjusted separately by the Benjamini-Hochberg procedure.

@@ -1,0 +1,8 @@
+#start_row=1	cols=10
+S:Source	S:panel_review_SRdown_bothFDR_matched/SF4e_bothFDR_fisher_summary.csv	N:	N:	N:	N:	N:	N:	N:	N:
+S:Description	S:Supplementary Fig. 4e dual-FDR SR-down x JenAge blood-aging-down Venn/Fisher statistics.	N:	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:universe_n	S:set_a_n	S:set_b_n	S:overlap_n	S:set_a_only_n	S:set_b_only_n	S:fisher_OR	S:fisher_p	S:sr_threshold	S:aging_threshold
+D:15442	D:1947	D:7916	D:1363	D:584	D:6553	D:2.47231765982222	D:0.00000000000000000000000000000000000000000000000000000000000000000000000436167916891231	S:participant-aware phase-adjusted logFC < 0; phase-model FDR < 0.05; delta MESOR < 0; MESOR FDR < 0.05	S:JenAge blood age logFC per decade < 0
+N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:	N:

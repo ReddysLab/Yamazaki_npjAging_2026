@@ -1,0 +1,26 @@
+#start_row=1	cols=12
+S:Source	S:source_materials/SACS_reactome_update_outputs/SACS_acuteSD_chronicSF_attenuation_statistics.csv	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:Description	S:Supplementary Fig. 2f attenuation-score statistics.	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:gene_set	S:n	S:median_acute_logFC	S:median_chronic_logFC	S:median_attenuation	S:paired_wilcoxon_p	S:matched_random_median_attenuation	S:matched_random_95pct_low	S:matched_random_95pct_high	S:empirical_p_matched_random_ge_observed	S:fisher_or_acute_up_x_positive_attenuation	S:fisher_p_acute_up_x_positive_attenuation
+S:Acute SD-induced genes	D:2374	D:0.278439867954085	D:-0.0222169356203916	D:0.315150252342274	D:0	D:0.0131653298914249	D:0.002500396983207	D:0.0230317745183222	D:0.0000999900009999	D:29.6121582485032	D:0
+S:2267 convergent genes	D:2267	D:0.282181720368026	D:-0.0343090973616318	D:0.327264729633551	D:0	D:0.0134872096876788	D:0.00224148461842	D:0.02363576845672	D:0.0000999900009999	D:29.6121582485032	D:0
+N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:Source	S:source_materials/SACS_reactome_update_outputs/SACS_triple_convergence_Reactome_network_fdr_plus_hsf_labels_labeled_terms.csv	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:Description	S:Supplementary Fig. 2f Reactome enrichment/network terms.	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:term	S:label	S:p_value	S:FDR	S:fdr_sig	S:is_hsf	S:display_class	N:	N:	N:	N:	N:
+S:REACTOME_UNFOLDED_PROTEIN_RESPONSE_UPR	S:Unfolded protein response	D:0.000288146419060582	D:0.0148189586945442	S:TRUE	S:TRUE	S:FDR < 0.05; HSF/proteostasis	N:	N:	N:	N:	N:
+S:REACTOME_ASPARAGINE_N_LINKED_GLYCOSYLATION	S:N linked glycosylation	D:0.0000000655811116516648	D:0.0000236092001945993	S:TRUE	S:FALSE	S:FDR < 0.05	N:	N:	N:	N:	N:
+S:REACTOME_TRANSPORT_TO_THE_GOLGI_AND_SUBSEQUENT_MODIFICATION	S:Transport to the golgi and subsequent modification	D:0.0000186919427262354	D:0.00336454969072236	S:TRUE	S:FALSE	S:FDR < 0.05	N:	N:	N:	N:	N:
+S:REACTOME_CARGO_CONCENTRATION_IN_THE_ER	S:Cargo concentration in the er	D:0.0000410046831856474	D:0.0042311865848087	S:TRUE	S:FALSE	S:FDR < 0.05	N:	N:	N:	N:	N:
+S:REACTOME_ER_TO_GOLGI_ANTEROGRADE_TRANSPORT	S:Er to golgi anterograde transport	D:0.0000470131842756522	D:0.0042311865848087	S:TRUE	S:FALSE	S:FDR < 0.05	N:	N:	N:	N:	N:
+S:REACTOME_COPII_MEDIATED_VESICLE_TRANSPORT	S:Copii mediated vesicle transport	D:0.0000764270798697172	D:0.00525780197816463	S:TRUE	S:FALSE	S:FDR < 0.05	N:	N:	N:	N:	N:
+S:REACTOME_N_GLYCAN_TRIMMING_IN_THE_ER_AND_CALNEXIN_CALRETICULIN_CYCLE	S:N glycan trimming in the er and calnexin calreticulin cycle	D:0.0000876300329694105	D:0.00525780197816463	S:TRUE	S:FALSE	S:FDR < 0.05	N:	N:	N:	N:	N:
+S:REACTOME_CALNEXIN_CALRETICULIN_CYCLE	S:Calnexin calreticulin cycle	D:0.000696258093537457	D:0.0313316142091856	S:TRUE	S:FALSE	S:FDR < 0.05	N:	N:	N:	N:	N:
+S:REACTOME_HSP90_CHAPERONE_CYCLE_FOR_STEROID_HORMONE_RECEPTORS_SHR_IN_THE_PRESENCE_OF_LIGAND	S:HSP90 chaperone cycle	D:0.00415998103822254	D:0.100964499822124	S:FALSE	S:TRUE	S:p < 0.05 HSF/proteostasis	N:	N:	N:	N:	N:
+S:REACTOME_IRE1ALPHA_ACTIVATES_CHAPERONES	S:IRE1alpha chaperones	D:0.00440977334926887	D:0.100964499822124	S:FALSE	S:TRUE	S:p < 0.05 HSF/proteostasis	N:	N:	N:	N:	N:
+S:REACTOME_ATTENUATION_PHASE	S:Attenuation phase	D:0.0132351406867849	D:0.190586025889703	S:FALSE	S:TRUE	S:p < 0.05 HSF/proteostasis	N:	N:	N:	N:	N:
+S:REACTOME_HSF1_ACTIVATION	S:HSF1 activation	D:0.0152595071410666	D:0.211285483491691	S:FALSE	S:TRUE	S:p < 0.05 HSF/proteostasis	N:	N:	N:	N:	N:
+S:REACTOME_HSF1_DEPENDENT_TRANSACTIVATION	S:HSF1 transactivation	D:0.0245608450061874	D:0.252625834349356	S:FALSE	S:TRUE	S:p < 0.05 HSF/proteostasis	N:	N:	N:	N:	N:

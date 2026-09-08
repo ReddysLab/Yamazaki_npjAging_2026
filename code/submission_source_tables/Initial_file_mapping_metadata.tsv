@@ -1,0 +1,5 @@
+#start_row=1	cols=4
+S:Source	S:Initial Supplementary Files 1-3 compared with the final round-2 analysis	N:	N:
+S:Description	S:Mapping of every initial-submission sheet to its updated, superseded or curated round-2 location.	N:	N:
+N:	N:	N:	N:
+S:initial_file	S:initial_sheet	S:revised_location	S:disposition

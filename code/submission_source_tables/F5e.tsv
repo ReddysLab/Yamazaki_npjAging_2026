@@ -1,0 +1,35 @@
+#start_row=1	cols=4
+S:Source	S:source_materials/GitHub_ready/Figure5/Tables/Figure_5E_source_data.csv	N:	N:
+S:Description	S:Fig. 5e SEA-AD donor age/disease-group source data.	N:	N:
+N:	N:	N:	N:
+S:SampleID	S:Diagnosis	S:Age	S:ad_group
+D:1	S:Control	D:74	S:No AD
+D:2	S:earlyAD	D:80	S:Early AD
+D:3	S:AD	D:89	S:AD
+D:5	S:Control	D:79	S:No AD
+D:6	S:earlyAD	D:89	S:Early AD
+D:7	S:AD	D:86	S:AD
+S:VisiumHuman_1	S:Control	D:90	S:No AD
+S:VisiumHuman_10	S:earlyAD	D:90	S:Early AD
+S:VisiumHuman_11	S:AD	D:90	S:AD
+S:VisiumHuman_13	S:Control	D:90	S:No AD
+S:VisiumHuman_14	S:earlyAD	D:79	S:Early AD
+S:VisiumHuman_15	S:AD	D:80	S:AD
+S:VisiumHuman_2	S:earlyAD	D:87	S:Early AD
+S:VisiumHuman_3	S:AD	D:90	S:AD
+S:VisiumHuman_5	S:Control	D:79	S:No AD
+S:VisiumHuman_6	S:earlyAD	D:90	S:Early AD
+S:VisiumHuman_7	S:AD	D:90	S:AD
+S:VisiumHuman_9	S:Control	D:83	S:No AD
+S:Human1	S:Control	D:64	S:No AD
+S:Human2	S:earlyAD	D:87	S:Early AD
+S:Human3	S:AD	D:89	S:AD
+S:Human5	S:Control	D:70	S:No AD
+S:Human6	S:earlyAD	D:90	S:Early AD
+S:Human7	S:AD	D:90	S:AD
+S:Human2	S:Control	D:64	S:No AD
+S:Human3	S:Control	D:64	S:No AD
+S:Human4	S:Control	D:64	S:No AD
+S:Human5	S:Control	D:64	S:No AD
+S:Human7	S:Control	D:64	S:No AD
+S:Human8	S:Control	D:64	S:No AD

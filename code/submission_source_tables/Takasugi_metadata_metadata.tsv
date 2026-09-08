@@ -1,0 +1,5 @@
+#start_row=1	cols=11
+S:Source	S:Takasugi et al. 2024 public multi-omics source table	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:Description	S:File, tissue, assay, age, sample, replicate, feature and observation metadata for the multi-omics analysis.	N:	N:	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:source_file	S:tissue	S:assay	S:fraction	S:modality	S:ages_months	S:samples	S:n_samples	S:n_features	S:n_observations	S:replicates_by_age

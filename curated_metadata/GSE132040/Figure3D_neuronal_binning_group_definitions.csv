@@ -1,0 +1,15 @@
+cell_type,group
+oligodendrocyte,Oligodendrocyte
+microglial cell,Microglia
+astrocyte,Astrocyte
+endothelial cell,Endothelial
+interneuron,Interneuron label
+neuron,Atlas neuron label
+medium spiny neuron,Medium spiny neuron label
+neuron,Broad neurons
+interneuron,Broad neurons
+medium spiny neuron,Broad neurons
+neuron,Non-interneuron neuronal labels
+medium spiny neuron,Non-interneuron neuronal labels
+interneuron,GABA/inhibitory-like neuronal labels
+medium spiny neuron,GABA/inhibitory-like neuronal labels

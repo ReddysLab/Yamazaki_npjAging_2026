@@ -1,0 +1,5 @@
+#start_row=1	cols=8
+S:Source	S:GSE39445 participant-aware phase/cosinor model	N:	N:	N:	N:	N:	N:
+S:Description	S:Complete participant-aware phase-adjusted and MESOR-like statistics for all 19,541 tested genes, including the final dual-FDR SR-down flag. Amplitude/timing outputs used in figures are reported in SF1a-e.	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:
+S:gene	S:participant_aware_phase_logFC	S:participant_aware_phase_p	S:participant_aware_phase_FDR	S:delta_mesor	S:mesor_p	S:mesor_FDR	S:final_SR_down_dual_FDR

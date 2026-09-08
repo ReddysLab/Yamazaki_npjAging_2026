@@ -1,0 +1,161 @@
+group,gene,n_age_points,min_cells_per_age,slope_expr_vs_age,gene_class
+Astrocyte,Atf4,3,31,-0.004791476076873852,Other proteostasis/stress
+Astrocyte,Atf6,3,31,0.0021067178479316404,Other proteostasis/stress
+Astrocyte,Bag3,3,31,-0.003716440414020166,Other proteostasis/stress
+Astrocyte,Ddit3,3,31,7.636527966553208e-4,Other proteostasis/stress
+Astrocyte,Dnajb1,3,31,-0.004303856702628988,Other proteostasis/stress
+Astrocyte,Dnajb6,3,31,-0.0017341074162713693,Other proteostasis/stress
+Astrocyte,Eif2ak3,3,31,-0.008192712208997699,Other proteostasis/stress
+Astrocyte,Hsf1,3,31,0.012019594903776028,HSP/chaperone
+Astrocyte,Hsp90aa1,3,31,-0.02303890000144757,HSP/chaperone
+Astrocyte,Hsp90ab1,3,31,-0.03572882362548866,HSP/chaperone
+Astrocyte,Hspa1a,3,31,-0.0013453569229548946,HSP/chaperone
+Astrocyte,Hspa5,3,31,-0.030806551637453463,HSP/chaperone
+Astrocyte,Hspd1,3,31,-0.017628414997701132,HSP/chaperone
+Astrocyte,Hsph1,3,31,-0.007524790668632242,HSP/chaperone
+Astrocyte,Psmb5,3,31,-1.5412375751068985e-4,Other proteostasis/stress
+Astrocyte,Xbp1,3,31,-0.004745488393062155,Other proteostasis/stress
+Atlas neuron label,Atf4,3,123,-0.016361072696005004,Other proteostasis/stress
+Atlas neuron label,Atf6,3,123,-0.013007335655985927,Other proteostasis/stress
+Atlas neuron label,Bag3,3,123,-0.0038763716595928252,Other proteostasis/stress
+Atlas neuron label,Ddit3,3,123,-0.006316787896390391,Other proteostasis/stress
+Atlas neuron label,Dnajb1,3,123,-0.021842631056178636,Other proteostasis/stress
+Atlas neuron label,Dnajb6,3,123,-0.03256089049324513,Other proteostasis/stress
+Atlas neuron label,Eif2ak3,3,123,-0.01163370547538853,Other proteostasis/stress
+Atlas neuron label,Hsf1,3,123,-0.006823487684070049,HSP/chaperone
+Atlas neuron label,Hsp90aa1,3,123,-0.03646052660374752,HSP/chaperone
+Atlas neuron label,Hsp90ab1,3,123,-0.03996788119055242,HSP/chaperone
+Atlas neuron label,Hspa1a,3,123,-0.016523736654010933,HSP/chaperone
+Atlas neuron label,Hspa5,3,123,-0.02553946531504826,HSP/chaperone
+Atlas neuron label,Hspd1,3,123,-0.034659724645546584,HSP/chaperone
+Atlas neuron label,Hsph1,3,123,-0.05561161398920718,HSP/chaperone
+Atlas neuron label,Psmb5,3,123,-0.037694004982512,Other proteostasis/stress
+Atlas neuron label,Xbp1,3,123,-0.028434010096411458,Other proteostasis/stress
+Broad neurons,Atf4,3,232,-0.00790253125224474,Other proteostasis/stress
+Broad neurons,Atf6,3,232,-0.019694116686552087,Other proteostasis/stress
+Broad neurons,Bag3,3,232,7.242180062253913e-5,Other proteostasis/stress
+Broad neurons,Ddit3,3,232,-0.010417594576503745,Other proteostasis/stress
+Broad neurons,Dnajb1,3,232,-0.013368681098860595,Other proteostasis/stress
+Broad neurons,Dnajb6,3,232,-0.021911384809078397,Other proteostasis/stress
+Broad neurons,Eif2ak3,3,232,-0.007382088512878933,Other proteostasis/stress
+Broad neurons,Hsf1,3,232,-0.006190502731653211,HSP/chaperone
+Broad neurons,Hsp90aa1,3,232,-0.019309606966577717,HSP/chaperone
+Broad neurons,Hsp90ab1,3,232,-0.022263966264984503,HSP/chaperone
+Broad neurons,Hspa1a,3,232,-0.006566604567369108,HSP/chaperone
+Broad neurons,Hspa5,3,232,-0.021112841185596334,HSP/chaperone
+Broad neurons,Hspd1,3,232,-0.027145711987191984,HSP/chaperone
+Broad neurons,Hsph1,3,232,-0.05642723518456208,HSP/chaperone
+Broad neurons,Psmb5,3,232,-0.028106540197975278,Other proteostasis/stress
+Broad neurons,Xbp1,3,232,-0.02505817566050149,Other proteostasis/stress
+Endothelial,Atf4,3,151,-0.011743336301924727,Other proteostasis/stress
+Endothelial,Atf6,3,151,-0.013080979210585595,Other proteostasis/stress
+Endothelial,Bag3,3,151,-0.006001572198334258,Other proteostasis/stress
+Endothelial,Ddit3,3,151,-0.00583922501768896,Other proteostasis/stress
+Endothelial,Dnajb1,3,151,-0.007714215270226394,Other proteostasis/stress
+Endothelial,Dnajb6,3,151,-0.008993488809692805,Other proteostasis/stress
+Endothelial,Eif2ak3,3,151,0.002164265233841695,Other proteostasis/stress
+Endothelial,Hsf1,3,151,-0.014556485475407766,HSP/chaperone
+Endothelial,Hsp90aa1,3,151,-0.013996039152838601,HSP/chaperone
+Endothelial,Hsp90ab1,3,151,-0.02417425698772969,HSP/chaperone
+Endothelial,Hspa1a,3,151,-0.031084185326341097,HSP/chaperone
+Endothelial,Hspa5,3,151,-0.03588294644294065,HSP/chaperone
+Endothelial,Hspd1,3,151,-0.010864634237814069,HSP/chaperone
+Endothelial,Hsph1,3,151,-0.009324893573613706,HSP/chaperone
+Endothelial,Psmb5,3,151,-0.007794551792798415,Other proteostasis/stress
+Endothelial,Xbp1,3,151,-0.014233031730860103,Other proteostasis/stress
+GABA/inhibitory-like neuronal labels,Atf4,3,62,-0.00705582612443008,Other proteostasis/stress
+GABA/inhibitory-like neuronal labels,Atf6,3,62,-0.025693062427238265,Other proteostasis/stress
+GABA/inhibitory-like neuronal labels,Bag3,3,62,0.007119681419555326,Other proteostasis/stress
+GABA/inhibitory-like neuronal labels,Ddit3,3,62,-0.02069864060546802,Other proteostasis/stress
+GABA/inhibitory-like neuronal labels,Dnajb1,3,62,-0.0067912394108951704,Other proteostasis/stress
+GABA/inhibitory-like neuronal labels,Dnajb6,3,62,-0.00275958831225008,Other proteostasis/stress
+GABA/inhibitory-like neuronal labels,Eif2ak3,3,62,0.002476150256732939,Other proteostasis/stress
+GABA/inhibitory-like neuronal labels,Hsf1,3,62,-0.009160289244541719,HSP/chaperone
+GABA/inhibitory-like neuronal labels,Hsp90aa1,3,62,-0.013744834383838752,HSP/chaperone
+GABA/inhibitory-like neuronal labels,Hsp90ab1,3,62,-0.00824564941392926,HSP/chaperone
+GABA/inhibitory-like neuronal labels,Hspa1a,3,62,0.001286060279922331,HSP/chaperone
+GABA/inhibitory-like neuronal labels,Hspa5,3,62,-0.017221871261726557,HSP/chaperone
+GABA/inhibitory-like neuronal labels,Hspd1,3,62,-0.018403021461776088,HSP/chaperone
+GABA/inhibitory-like neuronal labels,Hsph1,3,62,-0.06821375900523653,HSP/chaperone
+GABA/inhibitory-like neuronal labels,Psmb5,3,62,-0.01613157108434713,Other proteostasis/stress
+GABA/inhibitory-like neuronal labels,Xbp1,3,62,-0.021568228738697164,Other proteostasis/stress
+Interneuron label,Atf4,3,59,0.002542634749826688,Other proteostasis/stress
+Interneuron label,Atf6,3,59,0.004714431532176135,Other proteostasis/stress
+Interneuron label,Bag3,3,59,0.005761480621162164,Other proteostasis/stress
+Interneuron label,Ddit3,3,59,-0.0046346680912262685,Other proteostasis/stress
+Interneuron label,Dnajb1,3,59,0.004781684814274999,Other proteostasis/stress
+Interneuron label,Dnajb6,3,59,0.013516923366349791,Other proteostasis/stress
+Interneuron label,Eif2ak3,3,59,0.005164397134512017,Other proteostasis/stress
+Interneuron label,Hsf1,3,59,0.0013698325490254688,HSP/chaperone
+Interneuron label,Hsp90aa1,3,59,0.02350528361198702,HSP/chaperone
+Interneuron label,Hsp90ab1,3,59,0.04437221854878015,HSP/chaperone
+Interneuron label,Hspa1a,3,59,-1.932927330232857e-4,HSP/chaperone
+Interneuron label,Hspa5,3,59,0.005007408771953937,HSP/chaperone
+Interneuron label,Hspd1,3,59,0.0122445933312973,HSP/chaperone
+Interneuron label,Hsph1,3,59,-0.012230779876667855,HSP/chaperone
+Interneuron label,Psmb5,3,59,0.02154647054921597,Other proteostasis/stress
+Interneuron label,Xbp1,3,59,-1.8538857020147751e-4,Other proteostasis/stress
+Medium spiny neuron label,Atf4,3,3,-0.017605716446163603,Other proteostasis/stress
+Medium spiny neuron label,Atf6,3,3,-0.01616830472049443,Other proteostasis/stress
+Medium spiny neuron label,Bag3,3,3,-1.9824322183205673e-4,Other proteostasis/stress
+Medium spiny neuron label,Ddit3,3,3,-0.0049846330382456415,Other proteostasis/stress
+Medium spiny neuron label,Dnajb1,3,3,-0.014912595979834064,Other proteostasis/stress
+Medium spiny neuron label,Dnajb6,3,3,0.03010669996922581,Other proteostasis/stress
+Medium spiny neuron label,Eif2ak3,3,3,-0.00942344992392029,Other proteostasis/stress
+Medium spiny neuron label,Hsf1,3,3,-0.005072369602706212,HSP/chaperone
+Medium spiny neuron label,Hsp90aa1,3,3,-0.010575141660645347,HSP/chaperone
+Medium spiny neuron label,Hsp90ab1,3,3,0.007450873840036561,HSP/chaperone
+Medium spiny neuron label,Hspa1a,3,3,2.0402909648819267e-4,HSP/chaperone
+Medium spiny neuron label,Hspa5,3,3,-0.015713372852002794,HSP/chaperone
+Medium spiny neuron label,Hspd1,3,3,-0.037355499431018305,HSP/chaperone
+Medium spiny neuron label,Hsph1,3,3,0.015611136462409157,HSP/chaperone
+Medium spiny neuron label,Psmb5,3,3,0.0017463766583439267,Other proteostasis/stress
+Medium spiny neuron label,Xbp1,3,3,-0.00698746902512174,Other proteostasis/stress
+Microglia,Atf4,3,4269,-0.004770006802464494,Other proteostasis/stress
+Microglia,Atf6,3,4269,-0.012969074045585843,Other proteostasis/stress
+Microglia,Bag3,3,4269,-0.0016104751595228041,Other proteostasis/stress
+Microglia,Ddit3,3,4269,-0.0018684948711906572,Other proteostasis/stress
+Microglia,Dnajb1,3,4269,-7.101809354837148e-4,Other proteostasis/stress
+Microglia,Dnajb6,3,4269,-0.0023366479899094316,Other proteostasis/stress
+Microglia,Eif2ak3,3,4269,-0.006534870975073715,Other proteostasis/stress
+Microglia,Hsf1,3,4269,-0.0021482027330536565,HSP/chaperone
+Microglia,Hsp90aa1,3,4269,-0.001959703406505873,HSP/chaperone
+Microglia,Hsp90ab1,3,4269,-0.014019990711822807,HSP/chaperone
+Microglia,Hspa1a,3,4269,-2.006422218325475e-4,HSP/chaperone
+Microglia,Hspa5,3,4269,-0.03264291585202077,HSP/chaperone
+Microglia,Hspd1,3,4269,-0.004745570246999423,HSP/chaperone
+Microglia,Hsph1,3,4269,-0.003504601199606139,HSP/chaperone
+Microglia,Psmb5,3,4269,7.05515546981931e-5,Other proteostasis/stress
+Microglia,Xbp1,3,4269,-0.010601904466345038,Other proteostasis/stress
+Non-interneuron neuronal labels,Atf4,3,134,-0.010784864631354878,Other proteostasis/stress
+Non-interneuron neuronal labels,Atf6,3,134,-0.027856980796790345,Other proteostasis/stress
+Non-interneuron neuronal labels,Bag3,3,134,-0.0015583234734593994,Other proteostasis/stress
+Non-interneuron neuronal labels,Ddit3,3,134,-0.010840208666023393,Other proteostasis/stress
+Non-interneuron neuronal labels,Dnajb1,3,134,-0.018819626257595236,Other proteostasis/stress
+Non-interneuron neuronal labels,Dnajb6,3,134,-0.03225017029141286,Other proteostasis/stress
+Non-interneuron neuronal labels,Eif2ak3,3,134,-0.01083870298803842,Other proteostasis/stress
+Non-interneuron neuronal labels,Hsf1,3,134,-0.007839775753836957,HSP/chaperone
+Non-interneuron neuronal labels,Hsp90aa1,3,134,-0.034006848572901024,HSP/chaperone
+Non-interneuron neuronal labels,Hsp90ab1,3,134,-0.04374718240013496,HSP/chaperone
+Non-interneuron neuronal labels,Hspa1a,3,134,-0.00848892603907099,HSP/chaperone
+Non-interneuron neuronal labels,Hspa5,3,134,-0.029396645580636923,HSP/chaperone
+Non-interneuron neuronal labels,Hspd1,3,134,-0.03938828986165244,HSP/chaperone
+Non-interneuron neuronal labels,Hsph1,3,134,-0.07061023668550914,HSP/chaperone
+Non-interneuron neuronal labels,Psmb5,3,134,-0.04326189312145921,Other proteostasis/stress
+Non-interneuron neuronal labels,Xbp1,3,134,-0.03265651726958556,Other proteostasis/stress
+Oligodendrocyte,Atf4,3,134,0.0025082145157270873,Other proteostasis/stress
+Oligodendrocyte,Atf6,3,134,-0.01521339810466374,Other proteostasis/stress
+Oligodendrocyte,Bag3,3,134,0.0015366135338063943,Other proteostasis/stress
+Oligodendrocyte,Ddit3,3,134,0.013571147751677577,Other proteostasis/stress
+Oligodendrocyte,Dnajb1,3,134,-2.121283618271102e-4,Other proteostasis/stress
+Oligodendrocyte,Dnajb6,3,134,-0.005304274572355021,Other proteostasis/stress
+Oligodendrocyte,Eif2ak3,3,134,-0.012581566709575312,Other proteostasis/stress
+Oligodendrocyte,Hsf1,3,134,-0.0071183202912010355,HSP/chaperone
+Oligodendrocyte,Hsp90aa1,3,134,0.009998368351082733,HSP/chaperone
+Oligodendrocyte,Hsp90ab1,3,134,-3.945882059981252e-4,HSP/chaperone
+Oligodendrocyte,Hspa1a,3,134,1.8085656052398112e-4,HSP/chaperone
+Oligodendrocyte,Hspa5,3,134,-0.026676334841775083,HSP/chaperone
+Oligodendrocyte,Hspd1,3,134,-0.012697034817752837,HSP/chaperone
+Oligodendrocyte,Hsph1,3,134,-0.025086106188040885,HSP/chaperone
+Oligodendrocyte,Psmb5,3,134,0.009746669658865325,Other proteostasis/stress
+Oligodendrocyte,Xbp1,3,134,-0.005289797991663606,Other proteostasis/stress

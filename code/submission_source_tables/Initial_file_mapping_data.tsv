@@ -1,0 +1,24 @@
+#start_row=5	cols=4
+S:Supplementary_File_1.xlsx	S:Gene_direction	S:GSE39445_all_genes	S:Updated to participant-aware repeated-measures/cosinor statistics
+S:Supplementary_File_1.xlsx	S:Hallmark_results	S:F1f	S:Updated complete pathway table
+S:Supplementary_File_1.xlsx	S:Hallmark_genes	S:GSE39445_Hallmark_membership	S:Updated membership joined to participant-aware gene statistics
+S:Supplementary_File_1.xlsx	S:Hallmark_gene_summary	S:GSE39445_Hallmark_membership	S:Derivable directly from updated membership table
+S:Supplementary_File_1.xlsx	S:Reactome_results	S:F1g and SF1b	S:Updated complete pathway table
+S:Supplementary_File_1.xlsx	S:Reactome_genes	S:GSE39445_Reactome_membership	S:Updated membership joined to participant-aware gene statistics
+S:Supplementary_File_1.xlsx	S:Reactome_gene_summary	S:GSE39445_Reactome_membership	S:Derivable directly from updated membership table
+S:Supplementary_File_2.xlsx	S:Reactome_results	S:F4e-g and SF5a-f (superseded by final tissue-specific convergence analysis)	S:Old aligned-decline table superseded; final tissue-specific ORA retained
+S:Supplementary_File_3.xlsx	S:Fig4A_file_metadata	S:Takasugi_metadata	S:Updated metadata
+S:Supplementary_File_3.xlsx	S:Fig4A_RNA_long	S:Takasugi_integrated_summary	S:Curated to analyzed feature-level n/mean and trajectories
+S:Supplementary_File_3.xlsx	S:Fig4A_WTL_long	S:Takasugi_integrated_summary	S:Curated to analyzed feature-level n/mean and trajectories
+S:Supplementary_File_3.xlsx	S:Fig4A_LSF_long	S:Takasugi_integrated_summary	S:Curated to analyzed feature-level n/mean and trajectories
+S:Supplementary_File_3.xlsx	S:Fig4A_RNA_mean	S:Takasugi_integrated_summary	S:Age means included; variance reproducible from archived raw table
+S:Supplementary_File_3.xlsx	S:Fig4A_WTL_mean	S:Takasugi_integrated_summary	S:Age means included; variance reproducible from archived raw table
+S:Supplementary_File_3.xlsx	S:Fig4A_LSF_mean	S:Takasugi_integrated_summary	S:Age means included; variance reproducible from archived raw table
+S:Supplementary_File_3.xlsx	S:Fig4B_coupling_all	S:F4b	S:Updated and retained
+S:Supplementary_File_3.xlsx	S:Fig4B_coupling_plot	S:F4b	S:Updated and retained
+S:Supplementary_File_3.xlsx	S:Fig4B_coupling_wide	S:F4b	S:Updated and retained
+S:Supplementary_File_3.xlsx	S:Fig4D_gene_sets	S:F4c and F4e-g/SF5a-f	S:Superseded by final convergence definition
+S:Supplementary_File_3.xlsx	S:Fig4D_enrichment	S:F4e-g and SF5a-f	S:Updated full ORA retained
+S:Supplementary_File_3.xlsx	S:Fig4D_pathway_summary	S:F4g	S:Updated tissue/pathway summaries retained
+S:Supplementary_File_3.xlsx	S:Fig4D_heatmap_decline	S:F4g	S:Updated final heatmap source retained
+S:Supplementary_File_3.xlsx	S:Fig4D_heatmap_increase	S:F4g	S:Increase analysis not used in revised figure; final convergence analysis retained

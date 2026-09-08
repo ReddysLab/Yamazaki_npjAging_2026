@@ -1,0 +1,24 @@
+#start_row=17	cols=7
+S:Source	S:panel_review_SRdown_bothFDR_matched/F3f_bothFDR_clean_Reactome_network_edges.csv	N:	N:	N:	N:	N:
+S:Description	S:Fig. 3f plotted Reactome network edges.	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:
+S:from	S:to	S:shared_n	S:x1	S:y1	S:x2	S:y2
+D:1	D:2	D:6	D:0.7	D:0.32	D:0.36	D:0.32
+D:1	D:3	D:6	D:0.7	D:0.32	D:0.35	D:-0.7
+D:1	D:8	D:6	D:0.7	D:0.32	D:0.87	D:-0.3
+D:1	D:9	D:6	D:0.7	D:0.32	D:0.01	D:-0.7
+D:1	D:10	D:6	D:0.7	D:0.32	D:0.53	D:-0.3
+D:2	D:3	D:6	D:0.36	D:0.32	D:0.35	D:-0.7
+D:2	D:8	D:6	D:0.36	D:0.32	D:0.87	D:-0.3
+D:2	D:9	D:6	D:0.36	D:0.32	D:0.01	D:-0.7
+D:2	D:10	D:6	D:0.36	D:0.32	D:0.53	D:-0.3
+D:3	D:8	D:6	D:0.35	D:-0.7	D:0.87	D:-0.3
+D:3	D:9	D:6	D:0.35	D:-0.7	D:0.01	D:-0.7
+D:3	D:10	D:6	D:0.35	D:-0.7	D:0.53	D:-0.3
+D:4	D:5	D:6	D:0.15	D:0	D:-0.42	D:-0.7
+D:6	D:7	D:6	D:-0.19	D:0.0000000000000000232682891837997	D:-0.72	D:-0.42
+D:8	D:9	D:6	D:0.87	D:-0.3	D:0.01	D:-0.7
+D:8	D:10	D:6	D:0.87	D:-0.3	D:0.53	D:-0.3
+D:9	D:10	D:6	D:0.01	D:-0.7	D:0.53	D:-0.3
+N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:

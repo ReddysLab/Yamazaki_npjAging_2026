@@ -1,0 +1,42 @@
+#start_row=1	cols=16
+S:Source	S:source_materials/SACS_reactome_update_outputs/SACS_Reactome_network_FDR_only_nodes.csv	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:Description	S:Supplementary Fig. 6b SACS Reactome network nodes (FDR < 0.05).	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:term	S:term_clean	S:term_clean2	S:plot_label	S:term_n	S:overlap_n	S:overlap_genes	S:odds_ratio	S:p_value	S:FDR	S:neglog10_fdr	S:hsf_proteostasis	S:hsf_key	S:is_hsf	S:x	S:y
+S:REACTOME_NUCLEAR_EVENTS_KINASE_AND_TRANSCRIPTION_FACTOR_ACTIVATION	S:nuclear events kinase and transcription factor activation	S:Kinase transcription	S:Kinase / TF activation	D:59	D:16	S:ARC;CDK5R2;DUSP6;DUSP7;EGR1;EGR2;EGR3;EGR4;ELK1;FOSB;JUNB;MAPK11;RRAD;SRF;TRIB1;VGF	D:9.58226645918741	D:0.000000000414997866978507	D:0.000000224905931714636	D:6.64799909024261	S:FALSE	S:FALSE	S:FALSE	D:-0.75	D:-1.25
+S:REACTOME_NGF_STIMULATED_TRANSCRIPTION	S:ngf stimulated transcription	S:NGF transcription	S:NGF-stimulated transcription	D:37	D:13	S:ARC;CDK5R2;EGR1;EGR2;EGR3;EGR4;ELK1;FOSB;JUNB;RRAD;SRF;TRIB1;VGF	D:13.8913176099854	D:0.000000000511149844805991	D:0.000000224905931714636	D:6.64799909024261	S:FALSE	S:FALSE	S:FALSE	D:0.75	D:-1.25
+S:REACTOME_SIGNALING_BY_NTRKS	S:signaling by ntrks	S:NTRK signaling	S:NTRK signaling	D:130	D:20	S:ADCYAP1;ARC;BDNF;CDK5R2;DUSP6;DUSP7;EGR1;EGR2;EGR3;EGR4;ELK1;FOSB;JUNB;MAP2K2;MAPK11;RRAD;SRC;SRF;TRIB1;VGF	D:4.69547666524764	D:0.000000108767795827435	D:0.000031905220109381	D:4.49613825489804	S:FALSE	S:FALSE	S:FALSE	D:0	D:-0.42
+S:REACTOME_HSP90_CHAPERONE_CYCLE_FOR_STEROID_HORMONE_RECEPTORS_SHR_IN_THE_PRESENCE_OF_LIGAND	S:HSP90 chaperone cycle for steroid hormone receptors shr in the presence of ligand	S:HSP90 chaperone cycle	S:HSP90 chaperone cycle	D:48	D:9	S:DNAJA1;DNAJB1;DYNLL1;FKBP4;HSPA8;STIP1;TUBB2A;TUBB2B;TUBB4B	D:5.86862707216893	D:0.0000735688804128479	D:0.0161851536908265	D:1.79088317227247	S:TRUE	S:TRUE	S:TRUE	D:-0.95	D:1.32
+S:REACTOME_DENGUE_VIRUS_GENOME_TRANSLATION_AND_REPLICATION	S:dengue virus genome translation and replication	S:Viral translation	S:Viral translation	D:80	D:11	S:CALR;DNAJB11;EIF4A1;EIF4G2;HSPA5;HSPA8;HYOU1;OSTC;P4HA3;PRKG2;XPO1	D:4.06100231155221	D:0.00022560401045616	D:0.0397063058402841	D:1.40114051655762	S:FALSE	S:FALSE	S:FALSE	D:0.58	D:1.28
+S:REACTOME_ATTENUATION_PHASE	S:attenuation phase	S:Attenuation phase	S:Attenuation phase	D:26	D:6	S:DNAJB1;FKBP4;HSF1;HSPA8;HSPH1;SERPINH1	D:7.59586714493953	D:0.00036830552123731	D:0.0432275662651824	D:1.36423921478684	S:FALSE	S:TRUE	S:TRUE	D:-1.42	D:2.04
+S:REACTOME_HSF1_DEPENDENT_TRANSACTIVATION	S:HSF1 dependent transactivation	S:HSF1 transactivation	S:HSF1 transactivation	D:36	D:7	S:AKT1S1;DNAJB1;FKBP4;HSF1;HSPA8;HSPH1;SERPINH1	D:6.11964261221049	D:0.00037027563335926	D:0.0432275662651824	D:1.36423921478684	S:TRUE	S:TRUE	S:TRUE	D:-0.34	D:2.13
+S:REACTOME_NEURONAL_SYSTEM	S:neuronal system	S:Neuronal system	S:Neuronal system	D:365	D:28	S:ADCY3;APBA3;ARHGEF7;CACNB1;CACNG2;CACNG8;CAMK1;DLG4;DLGAP3;DLGAP4;GABRA2;GNB5;GRIN2C;HSPA8;KCNF1;KCNJ12;KCNK1;KCNK3;LRFN1;LRRTM1;NEFL;NRXN2;PPM1F;SHANK2;SRC;TUBB2A;TUBB2B;TUBB4B	D:2.14279933053557	D:0.00039297787513802	D:0.0432275662651824	D:1.36423921478684	S:FALSE	S:FALSE	S:FALSE	D:1.05	D:0.42
+N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:Source	S:source_materials/SACS_reactome_update_outputs/SACS_Reactome_network_FDR_only_edges.csv	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:Description	S:Supplementary Fig. 6b SACS Reactome network edges.	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:from	S:to	S:shared	S:jaccard	S:weight	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:nuclear events kinase and transcription factor activation	S:ngf stimulated transcription	D:13	D:0.8125	D:3.60555127546399	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:nuclear events kinase and transcription factor activation	S:signaling by ntrks	D:16	D:0.8	D:4	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:ngf stimulated transcription	S:signaling by ntrks	D:13	D:0.65	D:3.60555127546399	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:signaling by ntrks	S:neuronal system	D:1	D:0.0212765957446809	D:1	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:HSP90 chaperone cycle for steroid hormone receptors shr in the presence of ligand	S:dengue virus genome translation and replication	D:1	D:0.0526315789473684	D:1	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:HSP90 chaperone cycle for steroid hormone receptors shr in the presence of ligand	S:attenuation phase	D:3	D:0.25	D:1.73205080756888	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:HSP90 chaperone cycle for steroid hormone receptors shr in the presence of ligand	S:HSF1 dependent transactivation	D:3	D:0.230769230769231	D:1.73205080756888	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:HSP90 chaperone cycle for steroid hormone receptors shr in the presence of ligand	S:neuronal system	D:4	D:0.121212121212121	D:2	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:dengue virus genome translation and replication	S:attenuation phase	D:1	D:0.0625	D:1	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:dengue virus genome translation and replication	S:HSF1 dependent transactivation	D:1	D:0.0588235294117647	D:1	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:dengue virus genome translation and replication	S:neuronal system	D:1	D:0.0263157894736842	D:1	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:attenuation phase	S:HSF1 dependent transactivation	D:6	D:0.857142857142857	D:2.44948974278318	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:attenuation phase	S:neuronal system	D:1	D:0.0303030303030303	D:1	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:HSF1 dependent transactivation	S:neuronal system	D:1	D:0.0294117647058823	D:1	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:Source	S:source_materials/SACS_reactome_update_outputs/SACS_Reactome_network_FDR_only_summary.csv	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:Description	S:Supplementary Fig. 6b SACS Reactome ORA summary.	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:metric	S:value	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:SACS Reactome terms shown	D:8	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:FDR threshold	S:<0.05	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:HSF/proteostasis terms retained	D:3	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:	N:

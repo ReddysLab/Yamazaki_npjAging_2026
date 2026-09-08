@@ -1,0 +1,152 @@
+#start_row=1	cols=9
+S:Source	S:code/results/tables/figure3_participant_aware/Fig3d_cell_type_group_definitions.csv	N:	N:	N:	N:	N:	N:	N:
+S:Description	S:Fig. 3d displayed cell-type group definitions.	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:panel	S:panel_label	S:source_group	S:operational_definition	N:	N:	N:	N:	N:
+S:Fig. 3d	S:Excitatory	S:Atlas neuron label	S:Atlas cell_type label 'neuron'; used as the excitatory/non-interneuron neuronal group in the displayed heatmap.	N:	N:	N:	N:	N:
+S:Fig. 3d	S:Inhibitory	S:GABA/inhibitory-like neuronal labels	S:Pooled inhibitory/GABAergic-like neuronal labels, including interneuron and medium spiny neuron labels where available.	N:	N:	N:	N:	N:
+S:Fig. 3d	S:All neurons	S:Broad neurons	S:All neuronal labels pooled for the broad neuron group.	N:	N:	N:	N:	N:
+S:Fig. 3d	S:Astrocyte	S:Astrocyte	S:Atlas astrocyte label.	N:	N:	N:	N:	N:
+S:Fig. 3d	S:Oligodend.	S:Oligodendrocyte	S:Atlas oligodendrocyte label.	N:	N:	N:	N:	N:
+S:Fig. 3d	S:Microglia	S:Microglia	S:Atlas microglial cell label.	N:	N:	N:	N:	N:
+S:Fig. 3d	S:Endothelial	S:Endothelial	S:Atlas endothelial cell label.	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:Source	S:code/results/tables/figure3_participant_aware/Fig3d_cell_type_gene_slopes_wide.csv	N:	N:	N:	N:	N:	N:	N:
+S:Description	S:Fig. 3d aging-directionality heatmap source matrix for representative genes by displayed cell type.	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:gene	S:Excitatory	S:Inhibitory	S:All neurons	S:Astrocyte	S:Oligodend.	S:Microglia	S:Endothelial	N:
+S:Hsf1	D:-0.00682348768407004	D:-0.00916028924454171	D:-0.00619050273165321	D:0.012019594903776	D:-0.00711832029120103	D:-0.00214820273305365	D:-0.0145564854754078	N:
+S:Hspa1a	D:-0.0165237366540109	D:0.00128606027992233	D:-0.0065666045673691	D:-0.00134535692295489	D:0.000180856560523981	D:-0.000200642221832548	D:-0.0310841853263411	N:
+S:Hsp90aa1	D:-0.0364605266037475	D:-0.0137448343838387	D:-0.0193096069665777	D:-0.0230389000014476	D:0.00999836835108273	D:-0.00195970340650587	D:-0.0139960391528386	N:
+S:Hsp90ab1	D:-0.0399678811905524	D:-0.00824564941392926	D:-0.0222639662649845	D:-0.0357288236254887	D:-0.000394588205998125	D:-0.0140199907118228	D:-0.0241742569877297	N:
+S:Hspa5	D:-0.0255394653150483	D:-0.0172218712617265	D:-0.0211128411855963	D:-0.0308065516374535	D:-0.0266763348417751	D:-0.0326429158520208	D:-0.0358829464429406	N:
+S:Hspd1	D:-0.0346597246455466	D:-0.0184030214617761	D:-0.027145711987192	D:-0.0176284149977011	D:-0.0126970348177528	D:-0.00474557024699942	D:-0.0108646342378141	N:
+S:Hsph1	D:-0.0556116139892072	D:-0.0682137590052365	D:-0.0564272351845621	D:-0.00752479066863224	D:-0.0250861061880409	D:-0.00350460119960613	D:-0.0093248935736137	N:
+S:Dnajb1	D:-0.0218426310561786	D:-0.00679123941089517	D:-0.0133686810988606	D:-0.00430385670262898	D:-0.00021212836182711	D:-0.000710180935483715	D:-0.00771421527022639	N:
+S:Dnajb6	D:-0.0325608904932451	D:-0.00275958831225008	D:-0.0219113848090784	D:-0.00173410741627136	D:-0.00530427457235502	D:-0.00233664798990943	D:-0.0089934888096928	N:
+S:Bag3	D:-0.00387637165959282	D:0.00711968141955532	D:0.0000724218006225391	D:-0.00371644041402016	D:0.00153661353380639	D:-0.0016104751595228	D:-0.00600157219833425	N:
+S:Psmb5	D:-0.037694004982512	D:-0.0161315710843471	D:-0.0281065401979753	D:-0.00015412375751069	D:0.00974666965886532	D:0.0000705515546981931	D:-0.00779455179279841	N:
+S:Eif2ak3	D:-0.0116337054753885	D:0.00247615025673293	D:-0.00738208851287893	D:-0.00819271220899769	D:-0.0125815667095753	D:-0.00653487097507371	D:0.00216426523384169	N:
+S:Atf4	D:-0.016361072696005	D:-0.00705582612443008	D:-0.00790253125224474	D:-0.00479147607687385	D:0.00250821451572708	D:-0.00477000680246449	D:-0.0117433363019247	N:
+S:Atf6	D:-0.0130073356559859	D:-0.0256930624272383	D:-0.0196941166865521	D:0.00210671784793164	D:-0.0152133981046637	D:-0.0129690740455858	D:-0.0130809792105856	N:
+S:Xbp1	D:-0.0284340100964115	D:-0.0215682287386972	D:-0.0250581756605015	D:-0.00474548839306215	D:-0.0052897979916636	D:-0.010601904466345	D:-0.0142330317308601	N:
+S:Ddit3	D:-0.00631678789639039	D:-0.020698640605468	D:-0.0104175945765037	D:0.000763652796655321	D:0.0135711477516776	D:-0.00186849487119065	D:-0.00583922501768896	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:Source	S:code/results/tables/figure3_participant_aware/Fig3d_cell_type_gene_slopes_long.csv	N:	N:	N:	N:	N:	N:	N:
+S:Description	S:Fig. 3d long-form gene-by-cell-type aging slopes.	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:panel	S:gene	S:panel_cell_type	S:plotted_value	S:source_group	S:n_age_points	S:min_cells_per_age	S:gene_class	S:plotted_value_definition
+S:Fig. 3d	S:Hsf1	S:Excitatory	D:-0.00682348768407004	S:Atlas neuron label	D:3	D:123	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsf1	S:Inhibitory	D:-0.00916028924454171	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsf1	S:All neurons	D:-0.00619050273165321	S:Broad neurons	D:3	D:232	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsf1	S:Astrocyte	D:0.012019594903776	S:Astrocyte	D:3	D:31	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsf1	S:Oligodend.	D:-0.00711832029120103	S:Oligodendrocyte	D:3	D:134	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsf1	S:Microglia	D:-0.00214820273305365	S:Microglia	D:3	D:4269	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsf1	S:Endothelial	D:-0.0145564854754078	S:Endothelial	D:3	D:151	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspa1a	S:Excitatory	D:-0.0165237366540109	S:Atlas neuron label	D:3	D:123	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspa1a	S:Inhibitory	D:0.00128606027992233	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspa1a	S:All neurons	D:-0.0065666045673691	S:Broad neurons	D:3	D:232	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspa1a	S:Astrocyte	D:-0.00134535692295489	S:Astrocyte	D:3	D:31	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspa1a	S:Oligodend.	D:0.000180856560523981	S:Oligodendrocyte	D:3	D:134	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspa1a	S:Microglia	D:-0.000200642221832548	S:Microglia	D:3	D:4269	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspa1a	S:Endothelial	D:-0.0310841853263411	S:Endothelial	D:3	D:151	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsp90aa1	S:Excitatory	D:-0.0364605266037475	S:Atlas neuron label	D:3	D:123	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsp90aa1	S:Inhibitory	D:-0.0137448343838387	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsp90aa1	S:All neurons	D:-0.0193096069665777	S:Broad neurons	D:3	D:232	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsp90aa1	S:Astrocyte	D:-0.0230389000014476	S:Astrocyte	D:3	D:31	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsp90aa1	S:Oligodend.	D:0.00999836835108273	S:Oligodendrocyte	D:3	D:134	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsp90aa1	S:Microglia	D:-0.00195970340650587	S:Microglia	D:3	D:4269	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsp90aa1	S:Endothelial	D:-0.0139960391528386	S:Endothelial	D:3	D:151	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsp90ab1	S:Excitatory	D:-0.0399678811905524	S:Atlas neuron label	D:3	D:123	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsp90ab1	S:Inhibitory	D:-0.00824564941392926	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsp90ab1	S:All neurons	D:-0.0222639662649845	S:Broad neurons	D:3	D:232	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsp90ab1	S:Astrocyte	D:-0.0357288236254887	S:Astrocyte	D:3	D:31	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsp90ab1	S:Oligodend.	D:-0.000394588205998125	S:Oligodendrocyte	D:3	D:134	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsp90ab1	S:Microglia	D:-0.0140199907118228	S:Microglia	D:3	D:4269	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsp90ab1	S:Endothelial	D:-0.0241742569877297	S:Endothelial	D:3	D:151	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspa5	S:Excitatory	D:-0.0255394653150483	S:Atlas neuron label	D:3	D:123	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspa5	S:Inhibitory	D:-0.0172218712617265	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspa5	S:All neurons	D:-0.0211128411855963	S:Broad neurons	D:3	D:232	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspa5	S:Astrocyte	D:-0.0308065516374535	S:Astrocyte	D:3	D:31	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspa5	S:Oligodend.	D:-0.0266763348417751	S:Oligodendrocyte	D:3	D:134	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspa5	S:Microglia	D:-0.0326429158520208	S:Microglia	D:3	D:4269	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspa5	S:Endothelial	D:-0.0358829464429406	S:Endothelial	D:3	D:151	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspd1	S:Excitatory	D:-0.0346597246455466	S:Atlas neuron label	D:3	D:123	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspd1	S:Inhibitory	D:-0.0184030214617761	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspd1	S:All neurons	D:-0.027145711987192	S:Broad neurons	D:3	D:232	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspd1	S:Astrocyte	D:-0.0176284149977011	S:Astrocyte	D:3	D:31	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspd1	S:Oligodend.	D:-0.0126970348177528	S:Oligodendrocyte	D:3	D:134	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspd1	S:Microglia	D:-0.00474557024699942	S:Microglia	D:3	D:4269	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hspd1	S:Endothelial	D:-0.0108646342378141	S:Endothelial	D:3	D:151	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsph1	S:Excitatory	D:-0.0556116139892072	S:Atlas neuron label	D:3	D:123	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsph1	S:Inhibitory	D:-0.0682137590052365	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsph1	S:All neurons	D:-0.0564272351845621	S:Broad neurons	D:3	D:232	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsph1	S:Astrocyte	D:-0.00752479066863224	S:Astrocyte	D:3	D:31	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsph1	S:Oligodend.	D:-0.0250861061880409	S:Oligodendrocyte	D:3	D:134	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsph1	S:Microglia	D:-0.00350460119960613	S:Microglia	D:3	D:4269	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Hsph1	S:Endothelial	D:-0.0093248935736137	S:Endothelial	D:3	D:151	S:HSP/chaperone	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Dnajb1	S:Excitatory	D:-0.0218426310561786	S:Atlas neuron label	D:3	D:123	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Dnajb1	S:Inhibitory	D:-0.00679123941089517	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Dnajb1	S:All neurons	D:-0.0133686810988606	S:Broad neurons	D:3	D:232	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Dnajb1	S:Astrocyte	D:-0.00430385670262898	S:Astrocyte	D:3	D:31	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Dnajb1	S:Oligodend.	D:-0.00021212836182711	S:Oligodendrocyte	D:3	D:134	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Dnajb1	S:Microglia	D:-0.000710180935483715	S:Microglia	D:3	D:4269	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Dnajb1	S:Endothelial	D:-0.00771421527022639	S:Endothelial	D:3	D:151	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Dnajb6	S:Excitatory	D:-0.0325608904932451	S:Atlas neuron label	D:3	D:123	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Dnajb6	S:Inhibitory	D:-0.00275958831225008	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Dnajb6	S:All neurons	D:-0.0219113848090784	S:Broad neurons	D:3	D:232	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Dnajb6	S:Astrocyte	D:-0.00173410741627136	S:Astrocyte	D:3	D:31	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Dnajb6	S:Oligodend.	D:-0.00530427457235502	S:Oligodendrocyte	D:3	D:134	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Dnajb6	S:Microglia	D:-0.00233664798990943	S:Microglia	D:3	D:4269	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Dnajb6	S:Endothelial	D:-0.0089934888096928	S:Endothelial	D:3	D:151	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Bag3	S:Excitatory	D:-0.00387637165959282	S:Atlas neuron label	D:3	D:123	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Bag3	S:Inhibitory	D:0.00711968141955532	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Bag3	S:All neurons	D:0.0000724218006225391	S:Broad neurons	D:3	D:232	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Bag3	S:Astrocyte	D:-0.00371644041402016	S:Astrocyte	D:3	D:31	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Bag3	S:Oligodend.	D:0.00153661353380639	S:Oligodendrocyte	D:3	D:134	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Bag3	S:Microglia	D:-0.0016104751595228	S:Microglia	D:3	D:4269	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Bag3	S:Endothelial	D:-0.00600157219833425	S:Endothelial	D:3	D:151	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Psmb5	S:Excitatory	D:-0.037694004982512	S:Atlas neuron label	D:3	D:123	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Psmb5	S:Inhibitory	D:-0.0161315710843471	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Psmb5	S:All neurons	D:-0.0281065401979753	S:Broad neurons	D:3	D:232	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Psmb5	S:Astrocyte	D:-0.00015412375751069	S:Astrocyte	D:3	D:31	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Psmb5	S:Oligodend.	D:0.00974666965886532	S:Oligodendrocyte	D:3	D:134	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Psmb5	S:Microglia	D:0.0000705515546981931	S:Microglia	D:3	D:4269	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Psmb5	S:Endothelial	D:-0.00779455179279841	S:Endothelial	D:3	D:151	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Eif2ak3	S:Excitatory	D:-0.0116337054753885	S:Atlas neuron label	D:3	D:123	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Eif2ak3	S:Inhibitory	D:0.00247615025673293	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Eif2ak3	S:All neurons	D:-0.00738208851287893	S:Broad neurons	D:3	D:232	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Eif2ak3	S:Astrocyte	D:-0.00819271220899769	S:Astrocyte	D:3	D:31	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Eif2ak3	S:Oligodend.	D:-0.0125815667095753	S:Oligodendrocyte	D:3	D:134	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Eif2ak3	S:Microglia	D:-0.00653487097507371	S:Microglia	D:3	D:4269	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Eif2ak3	S:Endothelial	D:0.00216426523384169	S:Endothelial	D:3	D:151	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Atf4	S:Excitatory	D:-0.016361072696005	S:Atlas neuron label	D:3	D:123	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Atf4	S:Inhibitory	D:-0.00705582612443008	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Atf4	S:All neurons	D:-0.00790253125224474	S:Broad neurons	D:3	D:232	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Atf4	S:Astrocyte	D:-0.00479147607687385	S:Astrocyte	D:3	D:31	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Atf4	S:Oligodend.	D:0.00250821451572708	S:Oligodendrocyte	D:3	D:134	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Atf4	S:Microglia	D:-0.00477000680246449	S:Microglia	D:3	D:4269	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Atf4	S:Endothelial	D:-0.0117433363019247	S:Endothelial	D:3	D:151	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Atf6	S:Excitatory	D:-0.0130073356559859	S:Atlas neuron label	D:3	D:123	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Atf6	S:Inhibitory	D:-0.0256930624272383	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Atf6	S:All neurons	D:-0.0196941166865521	S:Broad neurons	D:3	D:232	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Atf6	S:Astrocyte	D:0.00210671784793164	S:Astrocyte	D:3	D:31	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Atf6	S:Oligodend.	D:-0.0152133981046637	S:Oligodendrocyte	D:3	D:134	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Atf6	S:Microglia	D:-0.0129690740455858	S:Microglia	D:3	D:4269	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Atf6	S:Endothelial	D:-0.0130809792105856	S:Endothelial	D:3	D:151	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Xbp1	S:Excitatory	D:-0.0284340100964115	S:Atlas neuron label	D:3	D:123	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Xbp1	S:Inhibitory	D:-0.0215682287386972	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Xbp1	S:All neurons	D:-0.0250581756605015	S:Broad neurons	D:3	D:232	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Xbp1	S:Astrocyte	D:-0.00474548839306215	S:Astrocyte	D:3	D:31	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Xbp1	S:Oligodend.	D:-0.0052897979916636	S:Oligodendrocyte	D:3	D:134	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Xbp1	S:Microglia	D:-0.010601904466345	S:Microglia	D:3	D:4269	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Xbp1	S:Endothelial	D:-0.0142330317308601	S:Endothelial	D:3	D:151	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Ddit3	S:Excitatory	D:-0.00631678789639039	S:Atlas neuron label	D:3	D:123	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Ddit3	S:Inhibitory	D:-0.020698640605468	S:GABA/inhibitory-like neuronal labels	D:3	D:62	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Ddit3	S:All neurons	D:-0.0104175945765037	S:Broad neurons	D:3	D:232	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Ddit3	S:Astrocyte	D:0.000763652796655321	S:Astrocyte	D:3	D:31	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Ddit3	S:Oligodend.	D:0.0135711477516776	S:Oligodendrocyte	D:3	D:134	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Ddit3	S:Microglia	D:-0.00186849487119065	S:Microglia	D:3	D:4269	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.
+S:Fig. 3d	S:Ddit3	S:Endothelial	D:-0.00583922501768896	S:Endothelial	D:3	D:151	S:Other proteostasis/stress	S:Slope from pseudobulk expression ~ age, using the cell-type grouping shown in the figure.

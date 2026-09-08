@@ -1,0 +1,140 @@
+#start_row=1	cols=7
+S:Source	S:source_materials/GitHub_ready/Figure5/Tables/Figure_5F_source_data.csv	N:	N:	N:	N:	N:
+S:Description	S:Fig. 5f baseline SACS enrichment across SEA-AD cell types.	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:
+S:group_id	S:baseline_score	S:Subclass	S:Class	S:Supertype	S:plot_group	S:baseline_score_rel
+S:Lamp5_Lhx6_1	D:-0.0104056445771608	S:Lamp5 Lhx6	S:Neuronal: GABAergic	S:Lamp5_Lhx6_1	S:GABAergic neurons	D:1.5638870294468
+S:Lamp5_1	D:0.00977800131071307	S:Lamp5	S:Neuronal: GABAergic	S:Lamp5_1	S:GABAergic neurons	D:1.58407067533467
+S:Lamp5_2	D:-0.0982922051855022	S:Lamp5	S:Neuronal: GABAergic	S:Lamp5_2	S:GABAergic neurons	D:1.47600046883846
+S:Lamp5_3	D:-0.136766583663839	S:Lamp5	S:Neuronal: GABAergic	S:Lamp5_3	S:GABAergic neurons	D:1.43752609036012
+S:Lamp5_4	D:-0.207866976091027	S:Lamp5	S:Neuronal: GABAergic	S:Lamp5_4	S:GABAergic neurons	D:1.36642569793293
+S:Lamp5_5	D:-0.219611159997369	S:Lamp5	S:Neuronal: GABAergic	S:Lamp5_5	S:GABAergic neurons	D:1.35468151402659
+S:Lamp5_6	D:-0.362499816213658	S:Lamp5	S:Neuronal: GABAergic	S:Lamp5_6	S:GABAergic neurons	D:1.2117928578103
+S:Pax6_1	D:0.0734357335688616	S:Pax6	S:Neuronal: GABAergic	S:Pax6_1	S:GABAergic neurons	D:1.64772840759282
+S:Pax6_2	D:0.305897939437194	S:Pax6	S:Neuronal: GABAergic	S:Pax6_2	S:GABAergic neurons	D:1.88019061346115
+S:Pax6_3	D:0.209319629019437	S:Pax6	S:Neuronal: GABAergic	S:Pax6_3	S:GABAergic neurons	D:1.78361230304339
+S:Pax6_4	D:0.173185884017364	S:Pax6	S:Neuronal: GABAergic	S:Pax6_4	S:GABAergic neurons	D:1.74747855804132
+S:Sncg_3	D:0.0593650664400183	S:Sncg	S:Neuronal: GABAergic	S:Sncg_3	S:GABAergic neurons	D:1.63365774046398
+S:Sncg_6	D:0.0220183689351728	S:Sncg	S:Neuronal: GABAergic	S:Sncg_6	S:GABAergic neurons	D:1.59631104295913
+S:Sncg_2	D:-0.186644777884515	S:Sncg	S:Neuronal: GABAergic	S:Sncg_2	S:GABAergic neurons	D:1.38764789613944
+S:Sncg_1	D:-0.370361438849551	S:Sncg	S:Neuronal: GABAergic	S:Sncg_1	S:GABAergic neurons	D:1.20393123517441
+S:Sncg_8	D:-0.347830919559285	S:Sncg	S:Neuronal: GABAergic	S:Sncg_8	S:GABAergic neurons	D:1.22646175446467
+S:Sncg_4	D:-0.29775148354343	S:Sncg	S:Neuronal: GABAergic	S:Sncg_4	S:GABAergic neurons	D:1.27654119048053
+S:Sncg_5	D:-0.270304602891106	S:Sncg	S:Neuronal: GABAergic	S:Sncg_5	S:GABAergic neurons	D:1.30398807113285
+S:Vip_14	D:0.022340109509192	S:Vip	S:Neuronal: GABAergic	S:Vip_14	S:GABAergic neurons	D:1.59663278353315
+S:Vip_15	D:-0.283089677243438	S:Vip	S:Neuronal: GABAergic	S:Vip_15	S:GABAergic neurons	D:1.29120299678052
+S:Vip_16	D:0.138049168895521	S:Vip	S:Neuronal: GABAergic	S:Vip_16	S:GABAergic neurons	D:1.71234184291948
+S:Vip_4	D:0.17229875862206	S:Vip	S:Neuronal: GABAergic	S:Vip_4	S:GABAergic neurons	D:1.74659143264602
+S:Vip_5	D:0.191232787518733	S:Vip	S:Neuronal: GABAergic	S:Vip_5	S:GABAergic neurons	D:1.76552546154269
+S:Vip_6	D:0.310692717887814	S:Vip	S:Neuronal: GABAergic	S:Vip_6	S:GABAergic neurons	D:1.88498539191177
+S:Vip_9	D:0.106116622815283	S:Vip	S:Neuronal: GABAergic	S:Vip_9	S:GABAergic neurons	D:1.68040929683924
+S:Vip_2	D:-0.35617621814322	S:Vip	S:Neuronal: GABAergic	S:Vip_2	S:GABAergic neurons	D:1.21811645588074
+S:Vip_11	D:-0.141529371277895	S:Vip	S:Neuronal: GABAergic	S:Vip_11	S:GABAergic neurons	D:1.43276330274606
+S:Vip_13	D:-0.120294326039204	S:Vip	S:Neuronal: GABAergic	S:Vip_13	S:GABAergic neurons	D:1.45399834798475
+S:Vip_1	D:0.0342933757281109	S:Vip	S:Neuronal: GABAergic	S:Vip_1	S:GABAergic neurons	D:1.60858604975207
+S:Vip_12	D:0.108763657032594	S:Vip	S:Neuronal: GABAergic	S:Vip_12	S:GABAergic neurons	D:1.68305633105655
+S:Vip_18	D:0.146875968248168	S:Vip	S:Neuronal: GABAergic	S:Vip_18	S:GABAergic neurons	D:1.72116864227213
+S:Vip_19	D:0.303169536380337	S:Vip	S:Neuronal: GABAergic	S:Vip_19	S:GABAergic neurons	D:1.87746221040429
+S:Vip_21	D:-0.0897685513491523	S:Vip	S:Neuronal: GABAergic	S:Vip_21	S:GABAergic neurons	D:1.48452412267481
+S:Vip_23	D:-0.10544068919544	S:Vip	S:Neuronal: GABAergic	S:Vip_23	S:GABAergic neurons	D:1.46885198482852
+S:Sst Chodl_1	D:0.249469679536961	S:Sst Chodl	S:Neuronal: GABAergic	S:Sst Chodl_1	S:GABAergic neurons	D:1.82376235356092
+S:Sst_1	D:0.164641836666386	S:Sst	S:Neuronal: GABAergic	S:Sst_1	S:GABAergic neurons	D:1.73893451069034
+S:Sst_4	D:-0.109327880991122	S:Sst	S:Neuronal: GABAergic	S:Sst_4	S:GABAergic neurons	D:1.46496479303284
+S:Sst_5	D:-0.047605368403929	S:Sst	S:Neuronal: GABAergic	S:Sst_5	S:GABAergic neurons	D:1.52668730562003
+S:Sst_7	D:0.109969846481634	S:Sst	S:Neuronal: GABAergic	S:Sst_7	S:GABAergic neurons	D:1.68426252050559
+S:Sst_3	D:-0.233037385698842	S:Sst	S:Neuronal: GABAergic	S:Sst_3	S:GABAergic neurons	D:1.34125528832512
+S:Sst_19	D:-0.108624383759749	S:Sst	S:Neuronal: GABAergic	S:Sst_19	S:GABAergic neurons	D:1.46566829026421
+S:Sst_9	D:-0.210179677966025	S:Sst	S:Neuronal: GABAergic	S:Sst_9	S:GABAergic neurons	D:1.36411299605793
+S:Sst_10	D:-0.0763337902970609	S:Sst	S:Neuronal: GABAergic	S:Sst_10	S:GABAergic neurons	D:1.4979588837269
+S:Sst_13	D:-0.157422889312829	S:Sst	S:Neuronal: GABAergic	S:Sst_13	S:GABAergic neurons	D:1.41686978471113
+S:Sst_12	D:-0.228188193124797	S:Sst	S:Neuronal: GABAergic	S:Sst_12	S:GABAergic neurons	D:1.34610448089916
+S:Sst Chodl_2	D:-0.0715184290309716	S:Sst Chodl	S:Neuronal: GABAergic	S:Sst Chodl_2	S:GABAergic neurons	D:1.50277424499299
+S:Sst_11	D:-0.394190785760386	S:Sst	S:Neuronal: GABAergic	S:Sst_11	S:GABAergic neurons	D:1.18010188826357
+S:Sst_20	D:-0.400070340876376	S:Sst	S:Neuronal: GABAergic	S:Sst_20	S:GABAergic neurons	D:1.17422233314758
+S:Sst_22	D:-0.451498306711693	S:Sst	S:Neuronal: GABAergic	S:Sst_22	S:GABAergic neurons	D:1.12279436731226
+S:Sst_23	D:-0.338684773027112	S:Sst	S:Neuronal: GABAergic	S:Sst_23	S:GABAergic neurons	D:1.23560790099685
+S:Sst_25	D:-0.434667900363272	S:Sst	S:Neuronal: GABAergic	S:Sst_25	S:GABAergic neurons	D:1.13962477366069
+S:Sst_2	D:-0.316338961517582	S:Sst	S:Neuronal: GABAergic	S:Sst_2	S:GABAergic neurons	D:1.25795371250638
+S:Pvalb_6	D:-0.0912631643377542	S:Pvalb	S:Neuronal: GABAergic	S:Pvalb_6	S:GABAergic neurons	D:1.4830295096862
+S:Pvalb_5	D:-0.189306986675651	S:Pvalb	S:Neuronal: GABAergic	S:Pvalb_5	S:GABAergic neurons	D:1.38498568734831
+S:Pvalb_8	D:-0.318949462521676	S:Pvalb	S:Neuronal: GABAergic	S:Pvalb_8	S:GABAergic neurons	D:1.25534321150228
+S:Pvalb_7	D:0.172953710159645	S:Pvalb	S:Neuronal: GABAergic	S:Pvalb_7	S:GABAergic neurons	D:1.7472463841836
+S:Pvalb_1	D:-0.0898589552016541	S:Pvalb	S:Neuronal: GABAergic	S:Pvalb_1	S:GABAergic neurons	D:1.4844337188223
+S:Pvalb_3	D:-0.130951705118038	S:Pvalb	S:Neuronal: GABAergic	S:Pvalb_3	S:GABAergic neurons	D:1.44334096890592
+S:Pvalb_2	D:-0.0682084595909741	S:Pvalb	S:Neuronal: GABAergic	S:Pvalb_2	S:GABAergic neurons	D:1.50608421443298
+S:Pvalb_15	D:0.0998257712194957	S:Pvalb	S:Neuronal: GABAergic	S:Pvalb_15	S:GABAergic neurons	D:1.67411844524345
+S:Pvalb_14	D:-0.273958706924508	S:Pvalb	S:Neuronal: GABAergic	S:Pvalb_14	S:GABAergic neurons	D:1.30033396709945
+S:Pvalb_12	D:-0.14416435022364	S:Pvalb	S:Neuronal: GABAergic	S:Pvalb_12	S:GABAergic neurons	D:1.43012832380032
+S:Pvalb_10	D:-0.159387700225783	S:Pvalb	S:Neuronal: GABAergic	S:Pvalb_10	S:GABAergic neurons	D:1.41490497379817
+S:Pvalb_13	D:0.00553640071520156	S:Pvalb	S:Neuronal: GABAergic	S:Pvalb_13	S:GABAergic neurons	D:1.57982907473916
+S:Pvalb_9	D:-0.012869232537179	S:Pvalb	S:Neuronal: GABAergic	S:Pvalb_9	S:GABAergic neurons	D:1.56142344148678
+S:Chandelier_1	D:-0.192046841086408	S:Chandelier	S:Neuronal: GABAergic	S:Chandelier_1	S:GABAergic neurons	D:1.38224583293755
+S:Chandelier_2	D:-0.273748501242446	S:Chandelier	S:Neuronal: GABAergic	S:Chandelier_2	S:GABAergic neurons	D:1.30054417278151
+S:L2/3 IT_1	D:0.296368919497308	S:L2/3 IT	S:Neuronal: Glutamatergic	S:L2/3 IT_1	S:Glutamatergic neurons	D:1.87066159352127
+S:L2/3 IT_2	D:0.429326102200994	S:L2/3 IT	S:Neuronal: Glutamatergic	S:L2/3 IT_2	S:Glutamatergic neurons	D:2.00361877622495
+S:L2/3 IT_6	D:0.245975538091017	S:L2/3 IT	S:Neuronal: Glutamatergic	S:L2/3 IT_6	S:Glutamatergic neurons	D:1.82026821211497
+S:L2/3 IT_7	D:0.155660260748459	S:L2/3 IT	S:Neuronal: Glutamatergic	S:L2/3 IT_7	S:Glutamatergic neurons	D:1.72995293477242
+S:L2/3 IT_5	D:0.1830383412939	S:L2/3 IT	S:Neuronal: Glutamatergic	S:L2/3 IT_5	S:Glutamatergic neurons	D:1.75733101531786
+S:L2/3 IT_13	D:0.113616714959846	S:L2/3 IT	S:Neuronal: Glutamatergic	S:L2/3 IT_13	S:Glutamatergic neurons	D:1.6879093889838
+S:L2/3 IT_10	D:0.408809876823054	S:L2/3 IT	S:Neuronal: Glutamatergic	S:L2/3 IT_10	S:Glutamatergic neurons	D:1.98310255084701
+S:L2/3 IT_8	D:0.380014312567583	S:L2/3 IT	S:Neuronal: Glutamatergic	S:L2/3 IT_8	S:Glutamatergic neurons	D:1.95430698659154
+S:L2/3 IT_12	D:0.247289466901976	S:L2/3 IT	S:Neuronal: Glutamatergic	S:L2/3 IT_12	S:Glutamatergic neurons	D:1.82158214092593
+S:L6 IT_1	D:0.384810593363834	S:L6 IT	S:Neuronal: Glutamatergic	S:L6 IT_1	S:Glutamatergic neurons	D:1.95910326738779
+S:L6 IT_2	D:0.353925046261352	S:L6 IT	S:Neuronal: Glutamatergic	S:L6 IT_2	S:Glutamatergic neurons	D:1.92821772028531
+S:L4 IT_2	D:0.413486344074403	S:L4 IT	S:Neuronal: Glutamatergic	S:L4 IT_2	S:Glutamatergic neurons	D:1.98777901809836
+S:L4 IT_3	D:0.216227049396682	S:L4 IT	S:Neuronal: Glutamatergic	S:L4 IT_3	S:Glutamatergic neurons	D:1.79051972342064
+S:L4 IT_4	D:0.496536110590634	S:L4 IT	S:Neuronal: Glutamatergic	S:L4 IT_4	S:Glutamatergic neurons	D:2.07082878461459
+S:L5 IT_1	D:0.352194220781601	S:L5 IT	S:Neuronal: Glutamatergic	S:L5 IT_1	S:Glutamatergic neurons	D:1.92648689480556
+S:L5 IT_3	D:0.391748436045259	S:L5 IT	S:Neuronal: Glutamatergic	S:L5 IT_3	S:Glutamatergic neurons	D:1.96604111006922
+S:L2/3 IT_3	D:0.0383945420309081	S:L2/3 IT	S:Neuronal: Glutamatergic	S:L2/3 IT_3	S:Glutamatergic neurons	D:1.61268721605487
+S:L4 IT_1	D:0.269235428035184	S:L4 IT	S:Neuronal: Glutamatergic	S:L4 IT_1	S:Glutamatergic neurons	D:1.84352810205914
+S:L5 IT_2	D:0.166632380822194	S:L5 IT	S:Neuronal: Glutamatergic	S:L5 IT_2	S:Glutamatergic neurons	D:1.74092505484615
+S:L5 IT_5	D:0.321029211341574	S:L5 IT	S:Neuronal: Glutamatergic	S:L5 IT_5	S:Glutamatergic neurons	D:1.89532188536553
+S:L5 IT_6	D:0.380422829523632	S:L5 IT	S:Neuronal: Glutamatergic	S:L5 IT_6	S:Glutamatergic neurons	D:1.95471550354759
+S:L5 IT_7	D:0.325592838958654	S:L5 IT	S:Neuronal: Glutamatergic	S:L5 IT_7	S:Glutamatergic neurons	D:1.89988551298261
+S:L5 ET_1	D:0.358849417732792	S:L5 ET	S:Neuronal: Glutamatergic	S:L5 ET_1	S:Glutamatergic neurons	D:1.93314209175675
+S:L5 ET_2	D:0.465916209901449	S:L5 ET	S:Neuronal: Glutamatergic	S:L5 ET_2	S:Glutamatergic neurons	D:2.04020888392541
+S:L6 CT_1	D:0.160606862925927	S:L6 CT	S:Neuronal: Glutamatergic	S:L6 CT_1	S:Glutamatergic neurons	D:1.73489953694988
+S:L6 CT_2	D:0.29246684135724	S:L6 CT	S:Neuronal: Glutamatergic	S:L6 CT_2	S:Glutamatergic neurons	D:1.8667595153812
+S:L6 CT_3	D:0.158399461694982	S:L6 CT	S:Neuronal: Glutamatergic	S:L6 CT_3	S:Glutamatergic neurons	D:1.73269213571894
+S:L6 CT_4	D:0.293459031423794	S:L6 CT	S:Neuronal: Glutamatergic	S:L6 CT_4	S:Glutamatergic neurons	D:1.86775170544775
+S:L6b_1	D:0.549859118633864	S:L6b	S:Neuronal: Glutamatergic	S:L6b_1	S:Glutamatergic neurons	D:2.12415179265782
+S:L6b_2	D:0.545093922701906	S:L6b	S:Neuronal: Glutamatergic	S:L6b_2	S:Glutamatergic neurons	D:2.11938659672586
+S:L6b_3	D:0.509811625109207	S:L6b	S:Neuronal: Glutamatergic	S:L6b_3	S:Glutamatergic neurons	D:2.08410429913316
+S:L6b_4	D:0.422749021778977	S:L6b	S:Neuronal: Glutamatergic	S:L6b_4	S:Glutamatergic neurons	D:1.99704169580294
+S:L6b_5	D:0.554022676784801	S:L6b	S:Neuronal: Glutamatergic	S:L6b_5	S:Glutamatergic neurons	D:2.12831535080876
+S:L6b_6	D:0.501390279133639	S:L6b	S:Neuronal: Glutamatergic	S:L6b_6	S:Glutamatergic neurons	D:2.0756829531576
+S:L6 IT Car3_1	D:0.530604024377425	S:L6 IT Car3	S:Neuronal: Glutamatergic	S:L6 IT Car3_1	S:Glutamatergic neurons	D:2.10489669840138
+S:L6 IT Car3_2	D:0.562612930074249	S:L6 IT Car3	S:Neuronal: Glutamatergic	S:L6 IT Car3_2	S:Glutamatergic neurons	D:2.13690560409821
+S:L6 IT Car3_3	D:0.541479491948118	S:L6 IT Car3	S:Neuronal: Glutamatergic	S:L6 IT Car3_3	S:Glutamatergic neurons	D:2.11577216597208
+S:L5/6 NP_1	D:0.131146080613431	S:L5/6 NP	S:Neuronal: Glutamatergic	S:L5/6 NP_1	S:Glutamatergic neurons	D:1.70543875463739
+S:L5/6 NP_2	D:0.113751159150768	S:L5/6 NP	S:Neuronal: Glutamatergic	S:L5/6 NP_2	S:Glutamatergic neurons	D:1.68804383317473
+S:L5/6 NP_3	D:0.10003131720267	S:L5/6 NP	S:Neuronal: Glutamatergic	S:L5/6 NP_3	S:Glutamatergic neurons	D:1.67432399122663
+S:L5/6 NP_6	D:0.113682133188974	S:L5/6 NP	S:Neuronal: Glutamatergic	S:L5/6 NP_6	S:Glutamatergic neurons	D:1.68797480721293
+S:L5/6 NP_4	D:0.609052528732932	S:L5/6 NP	S:Neuronal: Glutamatergic	S:L5/6 NP_4	S:Glutamatergic neurons	D:2.18334520275689
+S:Astro_1	D:-0.484921436750721	S:Astrocyte	S:Non-neuronal and non-neural	S:Astro_1	S:Astrocyte	D:1.08937123727324
+S:Astro_2	D:-0.462971602522606	S:Astrocyte	S:Non-neuronal and non-neural	S:Astro_2	S:Astrocyte	D:1.11132107150135
+S:Astro_6-SEAAD	D:-0.286604543630628	S:Astrocyte	S:Non-neuronal and non-neural	S:Astro_6-SEAAD	S:Astrocyte	D:1.28768813039333
+S:Astro_5	D:-0.620772089555924	S:Astrocyte	S:Non-neuronal and non-neural	S:Astro_5	S:Astrocyte	D:0.953520584468034
+S:Astro_3	D:-0.526253635265774	S:Astrocyte	S:Non-neuronal and non-neural	S:Astro_3	S:Astrocyte	D:1.04803903875818
+S:Astro_4	D:-0.739446302774175	S:Astrocyte	S:Non-neuronal and non-neural	S:Astro_4	S:Astrocyte	D:0.834846371249782
+S:OPC_1	D:0.0996645140308838	S:OPC	S:Non-neuronal and non-neural	S:OPC_1	S:OPC	D:1.67395718805484
+S:OPC_2	D:-0.296463512441667	S:OPC	S:Non-neuronal and non-neural	S:OPC_2	S:OPC	D:1.27782916158229
+S:OPC_2_1-SEAAD	D:-0.320689735805155	S:OPC	S:Non-neuronal and non-neural	S:OPC_2_1-SEAAD	S:OPC	D:1.2536029382188
+S:OPC_2_2-SEAAD	D:0.055279018180512	S:OPC	S:Non-neuronal and non-neural	S:OPC_2_2-SEAAD	S:OPC	D:1.62957169220447
+S:Oligo_1	D:-0.527399087914912	S:Oligodendrocyte	S:Non-neuronal and non-neural	S:Oligo_1	S:Oligodendrocyte	D:1.04689358610905
+S:Oligo_2	D:-0.606842353258509	S:Oligodendrocyte	S:Non-neuronal and non-neural	S:Oligo_2	S:Oligodendrocyte	D:0.967450320765449
+S:Oligo_2_1-SEAAD	D:-0.79411940928797	S:Oligodendrocyte	S:Non-neuronal and non-neural	S:Oligo_2_1-SEAAD	S:Oligodendrocyte	D:0.780173264735987
+S:Oligo_4	D:-0.495971719927105	S:Oligodendrocyte	S:Non-neuronal and non-neural	S:Oligo_4	S:Oligodendrocyte	D:1.07832095409685
+S:Oligo_3	D:-0.447130799731291	S:Oligodendrocyte	S:Non-neuronal and non-neural	S:Oligo_3	S:Oligodendrocyte	D:1.12716187429267
+S:Endo_1	D:-0.211221916664989	S:Endothelial	S:Non-neuronal and non-neural	S:Endo_1	S:Endothelial	D:1.36307075735897
+S:Endo_2	D:0.0739130423633652	S:Endothelial	S:Non-neuronal and non-neural	S:Endo_2	S:Endothelial	D:1.64820571638732
+S:Endo_3	D:0.298445580094203	S:Endothelial	S:Non-neuronal and non-neural	S:Endo_3	S:Endothelial	D:1.87273825411816
+S:Monocyte	D:-0.0817678914040785	S:Microglia-PVM	S:Non-neuronal and non-neural	S:Monocyte	S:Microglia	D:1.49252478261988
+S:Micro-PVM_1	D:-0.274658417960159	S:Microglia-PVM	S:Non-neuronal and non-neural	S:Micro-PVM_1	S:Microglia	D:1.2996342560638
+S:Micro-PVM_2_1-SEAAD	D:0.240995930084386	S:Microglia-PVM	S:Non-neuronal and non-neural	S:Micro-PVM_2_1-SEAAD	S:Microglia	D:1.81528860410834
+S:Micro-PVM_2	D:-0.278708377560409	S:Microglia-PVM	S:Non-neuronal and non-neural	S:Micro-PVM_2	S:Microglia	D:1.29558429646355
+S:Micro-PVM_2_3-SEAAD	D:-0.164820288714648	S:Microglia-PVM	S:Non-neuronal and non-neural	S:Micro-PVM_2_3-SEAAD	S:Microglia	D:1.40947238530931
+S:Micro-PVM_3-SEAAD	D:-0.219531650229313	S:Microglia-PVM	S:Non-neuronal and non-neural	S:Micro-PVM_3-SEAAD	S:Microglia	D:1.35476102379465
+S:Micro-PVM_4-SEAAD	D:-0.724297188126743	S:Microglia-PVM	S:Non-neuronal and non-neural	S:Micro-PVM_4-SEAAD	S:Microglia	D:0.849995485897214
+S:Lymphocyte	D:0.0846268167156712	S:Microglia-PVM	S:Non-neuronal and non-neural	S:Lymphocyte	S:Microglia	D:1.65891949073963

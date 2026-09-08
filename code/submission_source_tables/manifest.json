@@ -1,0 +1,1643 @@
+[
+  {
+    "order": 1,
+    "sheet": "F1b",
+    "rows": 13,
+    "cols": 4,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "F1b.tsv",
+        "start_row": 1,
+        "rows": 13,
+        "cols": 4
+      }
+    ]
+  },
+  {
+    "order": 2,
+    "sheet": "F1d",
+    "rows": 69,
+    "cols": 22,
+    "source_rows": [
+      1,
+      49
+    ],
+    "description_rows": [
+      2,
+      50
+    ],
+    "header_rows": [
+      4,
+      52
+    ],
+    "blocks": [
+      {
+        "file": "F1d.tsv",
+        "start_row": 1,
+        "rows": 69,
+        "cols": 22
+      }
+    ]
+  },
+  {
+    "order": 3,
+    "sheet": "F1e",
+    "rows": 14,
+    "cols": 29,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "F1e.tsv",
+        "start_row": 1,
+        "rows": 14,
+        "cols": 29
+      }
+    ]
+  },
+  {
+    "order": 4,
+    "sheet": "F1f",
+    "rows": 67,
+    "cols": 8,
+    "source_rows": [
+      1,
+      14
+    ],
+    "description_rows": [
+      2,
+      15
+    ],
+    "header_rows": [
+      4,
+      17
+    ],
+    "blocks": [
+      {
+        "file": "F1f.tsv",
+        "start_row": 1,
+        "rows": 67,
+        "cols": 8
+      }
+    ]
+  },
+  {
+    "order": 5,
+    "sheet": "F1g",
+    "rows": 1509,
+    "cols": 13,
+    "source_rows": [
+      1,
+      36,
+      88
+    ],
+    "description_rows": [
+      2,
+      37,
+      89
+    ],
+    "header_rows": [
+      4,
+      39,
+      91
+    ],
+    "blocks": [
+      {
+        "file": "F1g.tsv",
+        "start_row": 1,
+        "rows": 1509,
+        "cols": 13
+      }
+    ]
+  },
+  {
+    "order": 6,
+    "sheet": "F2a",
+    "rows": 151,
+    "cols": 2,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "F2a.tsv",
+        "start_row": 1,
+        "rows": 151,
+        "cols": 2
+      }
+    ]
+  },
+  {
+    "order": 7,
+    "sheet": "F2b",
+    "rows": 17164,
+    "cols": 5,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "F2b.tsv",
+        "start_row": 1,
+        "rows": 17164,
+        "cols": 5
+      }
+    ]
+  },
+  {
+    "order": 8,
+    "sheet": "F2c",
+    "rows": 298,
+    "cols": 4,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "F2c.tsv",
+        "start_row": 1,
+        "rows": 298,
+        "cols": 4
+      }
+    ]
+  },
+  {
+    "order": 9,
+    "sheet": "F2d",
+    "rows": 1490,
+    "cols": 15,
+    "source_rows": [
+      1,
+      1477
+    ],
+    "description_rows": [
+      2,
+      1478
+    ],
+    "header_rows": [
+      4,
+      1480
+    ],
+    "blocks": [
+      {
+        "file": "F2d.tsv",
+        "start_row": 1,
+        "rows": 1490,
+        "cols": 15
+      }
+    ]
+  },
+  {
+    "order": 10,
+    "sheet": "F3b",
+    "rows": 9,
+    "cols": 6,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "F3b.tsv",
+        "start_row": 1,
+        "rows": 9,
+        "cols": 6
+      }
+    ]
+  },
+  {
+    "order": 11,
+    "sheet": "F3c",
+    "rows": 9,
+    "cols": 24,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "F3c.tsv",
+        "start_row": 1,
+        "rows": 9,
+        "cols": 24
+      }
+    ]
+  },
+  {
+    "order": 12,
+    "sheet": "F3d",
+    "rows": 151,
+    "cols": 9,
+    "source_rows": [
+      1,
+      14,
+      36
+    ],
+    "description_rows": [
+      2,
+      15,
+      37
+    ],
+    "header_rows": [
+      4,
+      17,
+      39
+    ],
+    "blocks": [
+      {
+        "file": "F3d.tsv",
+        "start_row": 1,
+        "rows": 151,
+        "cols": 9
+      }
+    ]
+  },
+  {
+    "order": 13,
+    "sheet": "F3e",
+    "rows": 30053,
+    "cols": 16,
+    "source_rows": [
+      1,
+      9,
+      2178,
+      30044
+    ],
+    "description_rows": [
+      2,
+      10,
+      2179,
+      30045
+    ],
+    "header_rows": [
+      4,
+      12,
+      2181,
+      30047
+    ],
+    "blocks": [
+      {
+        "file": "F3e_section01.tsv",
+        "start_row": 1,
+        "rows": 8,
+        "cols": 9
+      },
+      {
+        "file": "F3e_section02.tsv",
+        "start_row": 9,
+        "rows": 2169,
+        "cols": 16
+      },
+      {
+        "file": "F3e_section03.tsv",
+        "start_row": 2178,
+        "rows": 27866,
+        "cols": 7
+      },
+      {
+        "file": "F3e_section04.tsv",
+        "start_row": 30044,
+        "rows": 10,
+        "cols": 2
+      }
+    ]
+  },
+  {
+    "order": 14,
+    "sheet": "F3f",
+    "rows": 14634,
+    "cols": 28,
+    "source_rows": [
+      1,
+      17,
+      40,
+      687,
+      14623
+    ],
+    "description_rows": [
+      2,
+      18,
+      41,
+      688,
+      14624
+    ],
+    "header_rows": [
+      4,
+      20,
+      43,
+      690,
+      14626
+    ],
+    "blocks": [
+      {
+        "file": "F3f_section01.tsv",
+        "start_row": 1,
+        "rows": 16,
+        "cols": 28
+      },
+      {
+        "file": "F3f_section02.tsv",
+        "start_row": 17,
+        "rows": 23,
+        "cols": 7
+      },
+      {
+        "file": "F3f_section03.tsv",
+        "start_row": 40,
+        "rows": 647,
+        "cols": 14
+      },
+      {
+        "file": "F3f_section04.tsv",
+        "start_row": 687,
+        "rows": 13936,
+        "cols": 7
+      },
+      {
+        "file": "F3f_section05.tsv",
+        "start_row": 14623,
+        "rows": 12,
+        "cols": 2
+      }
+    ]
+  },
+  {
+    "order": 15,
+    "sheet": "F4b",
+    "rows": 17,
+    "cols": 10,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "F4b.tsv",
+        "start_row": 1,
+        "rows": 17,
+        "cols": 10
+      }
+    ]
+  },
+  {
+    "order": 16,
+    "sheet": "F4c",
+    "rows": 5319,
+    "cols": 18,
+    "source_rows": [
+      1,
+      8,
+      5101,
+      5310
+    ],
+    "description_rows": [
+      2,
+      9,
+      5102,
+      5311
+    ],
+    "header_rows": [
+      4,
+      11,
+      5104,
+      5313
+    ],
+    "blocks": [
+      {
+        "file": "F4c.tsv",
+        "start_row": 1,
+        "rows": 5319,
+        "cols": 18
+      }
+    ]
+  },
+  {
+    "order": 17,
+    "sheet": "F4d",
+    "rows": 324,
+    "cols": 6,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "F4d.tsv",
+        "start_row": 1,
+        "rows": 324,
+        "cols": 6
+      }
+    ]
+  },
+  {
+    "order": 18,
+    "sheet": "F4e",
+    "rows": 663,
+    "cols": 29,
+    "source_rows": [
+      1,
+      15,
+      24,
+      443,
+      652
+    ],
+    "description_rows": [
+      2,
+      16,
+      25,
+      444,
+      653
+    ],
+    "header_rows": [
+      4,
+      18,
+      27,
+      446,
+      655
+    ],
+    "blocks": [
+      {
+        "file": "F4e.tsv",
+        "start_row": 1,
+        "rows": 663,
+        "cols": 29
+      }
+    ]
+  },
+  {
+    "order": 19,
+    "sheet": "F4f",
+    "rows": 842,
+    "cols": 29,
+    "source_rows": [
+      1,
+      18,
+      35,
+      523,
+      831
+    ],
+    "description_rows": [
+      2,
+      19,
+      36,
+      524,
+      832
+    ],
+    "header_rows": [
+      4,
+      21,
+      38,
+      526,
+      834
+    ],
+    "blocks": [
+      {
+        "file": "F4f.tsv",
+        "start_row": 1,
+        "rows": 842,
+        "cols": 29
+      }
+    ]
+  },
+  {
+    "order": 20,
+    "sheet": "F4g",
+    "rows": 3517,
+    "cols": 15,
+    "source_rows": [
+      1,
+      31,
+      45,
+      3506
+    ],
+    "description_rows": [
+      2,
+      32,
+      46,
+      3507
+    ],
+    "header_rows": [
+      4,
+      34,
+      48,
+      3509
+    ],
+    "blocks": [
+      {
+        "file": "F4g.tsv",
+        "start_row": 1,
+        "rows": 3517,
+        "cols": 15
+      }
+    ]
+  },
+  {
+    "order": 21,
+    "sheet": "F5b",
+    "rows": 7984,
+    "cols": 16,
+    "source_rows": [
+      1,
+      2792,
+      5349,
+      7945
+    ],
+    "description_rows": [
+      2,
+      2793,
+      5350,
+      7946
+    ],
+    "header_rows": [
+      4,
+      2795,
+      5352,
+      7948
+    ],
+    "blocks": [
+      {
+        "file": "F5b.tsv",
+        "start_row": 1,
+        "rows": 7984,
+        "cols": 16
+      }
+    ]
+  },
+  {
+    "order": 22,
+    "sheet": "F5c",
+    "rows": 20,
+    "cols": 5,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "F5c.tsv",
+        "start_row": 1,
+        "rows": 20,
+        "cols": 5
+      }
+    ]
+  },
+  {
+    "order": 23,
+    "sheet": "F5d",
+    "rows": 34,
+    "cols": 8,
+    "source_rows": [
+      1,
+      25
+    ],
+    "description_rows": [
+      2,
+      26
+    ],
+    "header_rows": [
+      4,
+      28
+    ],
+    "blocks": [
+      {
+        "file": "F5d.tsv",
+        "start_row": 1,
+        "rows": 34,
+        "cols": 8
+      }
+    ]
+  },
+  {
+    "order": 24,
+    "sheet": "F5e",
+    "rows": 34,
+    "cols": 4,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "F5e.tsv",
+        "start_row": 1,
+        "rows": 34,
+        "cols": 4
+      }
+    ]
+  },
+  {
+    "order": 25,
+    "sheet": "F5f",
+    "rows": 139,
+    "cols": 7,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "F5f.tsv",
+        "start_row": 1,
+        "rows": 139,
+        "cols": 7
+      }
+    ]
+  },
+  {
+    "order": 26,
+    "sheet": "F5g",
+    "rows": 146,
+    "cols": 4,
+    "source_rows": [
+      1,
+      142
+    ],
+    "description_rows": [
+      2,
+      143
+    ],
+    "header_rows": [
+      4,
+      145
+    ],
+    "blocks": [
+      {
+        "file": "F5g.tsv",
+        "start_row": 1,
+        "rows": 146,
+        "cols": 4
+      }
+    ]
+  },
+  {
+    "order": 27,
+    "sheet": "F5h",
+    "rows": 3300,
+    "cols": 28,
+    "source_rows": [
+      1,
+      3290
+    ],
+    "description_rows": [
+      2,
+      3291
+    ],
+    "header_rows": [
+      4,
+      3293
+    ],
+    "blocks": [
+      {
+        "file": "F5h.tsv",
+        "start_row": 1,
+        "rows": 3300,
+        "cols": 28
+      }
+    ]
+  },
+  {
+    "order": 28,
+    "sheet": "SF1a",
+    "rows": 67,
+    "cols": 22,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "SF1a.tsv",
+        "start_row": 1,
+        "rows": 67,
+        "cols": 22
+      }
+    ]
+  },
+  {
+    "order": 29,
+    "sheet": "SF1b",
+    "rows": 1422,
+    "cols": 20,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "SF1b.tsv",
+        "start_row": 1,
+        "rows": 1422,
+        "cols": 20
+      }
+    ]
+  },
+  {
+    "order": 30,
+    "sheet": "SF1c",
+    "rows": 14,
+    "cols": 29,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "SF1c.tsv",
+        "start_row": 1,
+        "rows": 14,
+        "cols": 29
+      }
+    ]
+  },
+  {
+    "order": 31,
+    "sheet": "SF1d",
+    "rows": 14,
+    "cols": 29,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "SF1d.tsv",
+        "start_row": 1,
+        "rows": 14,
+        "cols": 29
+      }
+    ]
+  },
+  {
+    "order": 32,
+    "sheet": "SF1e",
+    "rows": 223,
+    "cols": 29,
+    "source_rows": [
+      1,
+      17
+    ],
+    "description_rows": [
+      2,
+      18
+    ],
+    "header_rows": [
+      4,
+      20
+    ],
+    "blocks": [
+      {
+        "file": "SF1e_top.tsv",
+        "start_row": 1,
+        "rows": 14,
+        "cols": 29
+      },
+      {
+        "file": "SF1e_null_summary.tsv",
+        "start_row": 17,
+        "rows": 207,
+        "cols": 24
+      }
+    ]
+  },
+  {
+    "order": 33,
+    "sheet": "SF2c",
+    "rows": 18,
+    "cols": 18,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "SF2c.tsv",
+        "start_row": 1,
+        "rows": 18,
+        "cols": 18
+      }
+    ]
+  },
+  {
+    "order": 34,
+    "sheet": "SF2d",
+    "rows": 14497,
+    "cols": 16,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "SF2d.tsv",
+        "start_row": 1,
+        "rows": 14497,
+        "cols": 16
+      }
+    ]
+  },
+  {
+    "order": 35,
+    "sheet": "SF2e",
+    "rows": 5,
+    "cols": 9,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "SF2e.tsv",
+        "start_row": 1,
+        "rows": 5,
+        "cols": 9
+      }
+    ]
+  },
+  {
+    "order": 36,
+    "sheet": "SF2f",
+    "rows": 25,
+    "cols": 12,
+    "source_rows": [
+      1,
+      9
+    ],
+    "description_rows": [
+      2,
+      10
+    ],
+    "header_rows": [
+      4,
+      12
+    ],
+    "blocks": [
+      {
+        "file": "SF2f.tsv",
+        "start_row": 1,
+        "rows": 25,
+        "cols": 12
+      }
+    ]
+  },
+  {
+    "order": 37,
+    "sheet": "SF3a",
+    "rows": 184,
+    "cols": 6,
+    "source_rows": [
+      1,
+      21
+    ],
+    "description_rows": [
+      2,
+      22
+    ],
+    "header_rows": [
+      4,
+      24
+    ],
+    "blocks": [
+      {
+        "file": "SF3a.tsv",
+        "start_row": 1,
+        "rows": 184,
+        "cols": 6
+      }
+    ]
+  },
+  {
+    "order": 38,
+    "sheet": "SF3b",
+    "rows": 14416,
+    "cols": 28,
+    "source_rows": [
+      1,
+      17,
+      43,
+      469,
+      14405
+    ],
+    "description_rows": [
+      2,
+      18,
+      44,
+      470,
+      14406
+    ],
+    "header_rows": [
+      4,
+      20,
+      46,
+      472,
+      14408
+    ],
+    "blocks": [
+      {
+        "file": "SF3b_section01.tsv",
+        "start_row": 1,
+        "rows": 16,
+        "cols": 28
+      },
+      {
+        "file": "SF3b_section02.tsv",
+        "start_row": 17,
+        "rows": 26,
+        "cols": 7
+      },
+      {
+        "file": "SF3b_section03.tsv",
+        "start_row": 43,
+        "rows": 426,
+        "cols": 14
+      },
+      {
+        "file": "SF3b_section04.tsv",
+        "start_row": 469,
+        "rows": 13936,
+        "cols": 7
+      },
+      {
+        "file": "SF3b_section05.tsv",
+        "start_row": 14405,
+        "rows": 12,
+        "cols": 2
+      }
+    ]
+  },
+  {
+    "order": 39,
+    "sheet": "SF4b",
+    "rows": 1832,
+    "cols": 13,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "SF4b.tsv",
+        "start_row": 1,
+        "rows": 1832,
+        "cols": 13
+      }
+    ]
+  },
+  {
+    "order": 40,
+    "sheet": "SF4c",
+    "rows": 10,
+    "cols": 16,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "SF4c.tsv",
+        "start_row": 1,
+        "rows": 10,
+        "cols": 16
+      }
+    ]
+  },
+  {
+    "order": 41,
+    "sheet": "SF4d",
+    "rows": 20,
+    "cols": 14,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "SF4d.tsv",
+        "start_row": 1,
+        "rows": 20,
+        "cols": 14
+      }
+    ]
+  },
+  {
+    "order": 42,
+    "sheet": "SF4e",
+    "rows": 16834,
+    "cols": 25,
+    "source_rows": [
+      1,
+      8,
+      15456,
+      16825
+    ],
+    "description_rows": [
+      2,
+      9,
+      15457,
+      16826
+    ],
+    "header_rows": [
+      4,
+      11,
+      15459,
+      16828
+    ],
+    "blocks": [
+      {
+        "file": "SF4e_section01.tsv",
+        "start_row": 1,
+        "rows": 7,
+        "cols": 10
+      },
+      {
+        "file": "SF4e_section02.tsv",
+        "start_row": 8,
+        "rows": 15448,
+        "cols": 10
+      },
+      {
+        "file": "SF4e_section03.tsv",
+        "start_row": 15456,
+        "rows": 1369,
+        "cols": 4
+      },
+      {
+        "file": "SF4e_section04.tsv",
+        "start_row": 16825,
+        "rows": 10,
+        "cols": 2
+      }
+    ]
+  },
+  {
+    "order": 43,
+    "sheet": "SF4f",
+    "rows": 2581,
+    "cols": 27,
+    "source_rows": [
+      1,
+      21,
+      47,
+      1201,
+      2570
+    ],
+    "description_rows": [
+      2,
+      22,
+      48,
+      1202,
+      2571
+    ],
+    "header_rows": [
+      4,
+      24,
+      50,
+      1204,
+      2573
+    ],
+    "blocks": [
+      {
+        "file": "SF4f.tsv",
+        "start_row": 1,
+        "rows": 2581,
+        "cols": 27
+      }
+    ]
+  },
+  {
+    "order": 44,
+    "sheet": "SF4g",
+    "rows": 1177,
+    "cols": 14,
+    "source_rows": [
+      1,
+      12,
+      1166
+    ],
+    "description_rows": [
+      2,
+      13,
+      1167
+    ],
+    "header_rows": [
+      4,
+      15,
+      1169
+    ],
+    "blocks": [
+      {
+        "file": "SF4g.tsv",
+        "start_row": 1,
+        "rows": 1177,
+        "cols": 14
+      }
+    ]
+  },
+  {
+    "order": 45,
+    "sheet": "SF5a",
+    "rows": 852,
+    "cols": 29,
+    "source_rows": [
+      1,
+      15,
+      30,
+      570,
+      841
+    ],
+    "description_rows": [
+      2,
+      16,
+      31,
+      571,
+      842
+    ],
+    "header_rows": [
+      4,
+      18,
+      33,
+      573,
+      844
+    ],
+    "blocks": [
+      {
+        "file": "SF5a.tsv",
+        "start_row": 1,
+        "rows": 852,
+        "cols": 29
+      }
+    ]
+  },
+  {
+    "order": 46,
+    "sheet": "SF5b",
+    "rows": 663,
+    "cols": 29,
+    "source_rows": [
+      1,
+      20,
+      44,
+      465,
+      652
+    ],
+    "description_rows": [
+      2,
+      21,
+      45,
+      466,
+      653
+    ],
+    "header_rows": [
+      4,
+      23,
+      47,
+      468,
+      655
+    ],
+    "blocks": [
+      {
+        "file": "SF5b.tsv",
+        "start_row": 1,
+        "rows": 663,
+        "cols": 29
+      }
+    ]
+  },
+  {
+    "order": 47,
+    "sheet": "SF5c",
+    "rows": 548,
+    "cols": 29,
+    "source_rows": [
+      1,
+      15,
+      29,
+      363,
+      537
+    ],
+    "description_rows": [
+      2,
+      16,
+      30,
+      364,
+      538
+    ],
+    "header_rows": [
+      4,
+      18,
+      32,
+      366,
+      540
+    ],
+    "blocks": [
+      {
+        "file": "SF5c.tsv",
+        "start_row": 1,
+        "rows": 548,
+        "cols": 29
+      }
+    ]
+  },
+  {
+    "order": 48,
+    "sheet": "SF5d",
+    "rows": 428,
+    "cols": 29,
+    "source_rows": [
+      1,
+      11,
+      22,
+      306,
+      417
+    ],
+    "description_rows": [
+      2,
+      12,
+      23,
+      307,
+      418
+    ],
+    "header_rows": [
+      4,
+      14,
+      25,
+      309,
+      420
+    ],
+    "blocks": [
+      {
+        "file": "SF5d.tsv",
+        "start_row": 1,
+        "rows": 428,
+        "cols": 29
+      }
+    ]
+  },
+  {
+    "order": 49,
+    "sheet": "SF5e",
+    "rows": 892,
+    "cols": 29,
+    "source_rows": [
+      1,
+      16,
+      25,
+      564,
+      881
+    ],
+    "description_rows": [
+      2,
+      17,
+      26,
+      565,
+      882
+    ],
+    "header_rows": [
+      4,
+      19,
+      28,
+      567,
+      884
+    ],
+    "blocks": [
+      {
+        "file": "SF5e.tsv",
+        "start_row": 1,
+        "rows": 892,
+        "cols": 29
+      }
+    ]
+  },
+  {
+    "order": 50,
+    "sheet": "SF5f",
+    "rows": 734,
+    "cols": 29,
+    "source_rows": [
+      1,
+      12,
+      21,
+      499,
+      723
+    ],
+    "description_rows": [
+      2,
+      13,
+      22,
+      500,
+      724
+    ],
+    "header_rows": [
+      4,
+      15,
+      24,
+      502,
+      726
+    ],
+    "blocks": [
+      {
+        "file": "SF5f.tsv",
+        "start_row": 1,
+        "rows": 734,
+        "cols": 29
+      }
+    ]
+  },
+  {
+    "order": 51,
+    "sheet": "SF6a",
+    "rows": 564,
+    "cols": 22,
+    "source_rows": [
+      1,
+      8
+    ],
+    "description_rows": [
+      2,
+      9
+    ],
+    "header_rows": [
+      4,
+      11
+    ],
+    "blocks": [
+      {
+        "file": "SF6a.tsv",
+        "start_row": 1,
+        "rows": 564,
+        "cols": 22
+      }
+    ]
+  },
+  {
+    "order": 52,
+    "sheet": "SF6b",
+    "rows": 41,
+    "cols": 16,
+    "source_rows": [
+      1,
+      15,
+      35
+    ],
+    "description_rows": [
+      2,
+      16,
+      36
+    ],
+    "header_rows": [
+      4,
+      18,
+      38
+    ],
+    "blocks": [
+      {
+        "file": "SF6b.tsv",
+        "start_row": 1,
+        "rows": 41,
+        "cols": 16
+      }
+    ]
+  },
+  {
+    "order": 53,
+    "sheet": "SF6d",
+    "rows": 1473,
+    "cols": 19,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "SF6d.tsv",
+        "start_row": 1,
+        "rows": 1473,
+        "cols": 19
+      }
+    ]
+  },
+  {
+    "order": 54,
+    "sheet": "SF6e",
+    "rows": 1584,
+    "cols": 23,
+    "source_rows": [
+      1,
+      8,
+      1483
+    ],
+    "description_rows": [
+      2,
+      9,
+      1484
+    ],
+    "header_rows": [
+      4,
+      11,
+      1486
+    ],
+    "blocks": [
+      {
+        "file": "SF6e.tsv",
+        "start_row": 1,
+        "rows": 1584,
+        "cols": 23
+      }
+    ]
+  },
+  {
+    "order": 55,
+    "sheet": "SF6f",
+    "rows": 15,
+    "cols": 22,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "SF6f.tsv",
+        "start_row": 1,
+        "rows": 15,
+        "cols": 22
+      }
+    ]
+  },
+  {
+    "order": 56,
+    "sheet": "SF6g",
+    "rows": 1408,
+    "cols": 14,
+    "source_rows": [
+      1,
+      14,
+      1357,
+      1376
+    ],
+    "description_rows": [
+      2,
+      15,
+      1358,
+      1377
+    ],
+    "header_rows": [
+      4,
+      17,
+      1360,
+      1379
+    ],
+    "blocks": [
+      {
+        "file": "SF6g.tsv",
+        "start_row": 1,
+        "rows": 1408,
+        "cols": 14
+      }
+    ]
+  },
+  {
+    "order": 57,
+    "sheet": "README",
+    "rows": 15,
+    "cols": 2,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "README_metadata.tsv",
+        "start_row": 1,
+        "rows": 4,
+        "cols": 2
+      },
+      {
+        "file": "README_data.tsv",
+        "start_row": 5,
+        "rows": 11,
+        "cols": 2
+      }
+    ]
+  },
+  {
+    "order": 58,
+    "sheet": "Initial_file_mapping",
+    "rows": 27,
+    "cols": 4,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "Initial_file_mapping_metadata.tsv",
+        "start_row": 1,
+        "rows": 4,
+        "cols": 4
+      },
+      {
+        "file": "Initial_file_mapping_data.tsv",
+        "start_row": 5,
+        "rows": 23,
+        "cols": 4
+      }
+    ]
+  },
+  {
+    "order": 59,
+    "sheet": "GSE39445_all_genes",
+    "rows": 19545,
+    "cols": 8,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "GSE39445_all_genes_metadata.tsv",
+        "start_row": 1,
+        "rows": 4,
+        "cols": 8
+      },
+      {
+        "file": "GSE39445_all_genes_data.tsv",
+        "start_row": 5,
+        "rows": 19541,
+        "cols": 8
+      }
+    ]
+  },
+  {
+    "order": 60,
+    "sheet": "GSE39445_Hallmark_membership",
+    "rows": 54,
+    "cols": 4,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "GSE39445_Hallmark_membership_metadata.tsv",
+        "start_row": 1,
+        "rows": 4,
+        "cols": 4
+      },
+      {
+        "file": "GSE39445_Hallmark_membership_data.tsv",
+        "start_row": 5,
+        "rows": 50,
+        "cols": 4
+      }
+    ]
+  },
+  {
+    "order": 61,
+    "sheet": "GSE39445_Reactome_membership",
+    "rows": 1422,
+    "cols": 4,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "GSE39445_Reactome_membership_metadata.tsv",
+        "start_row": 1,
+        "rows": 4,
+        "cols": 4
+      },
+      {
+        "file": "GSE39445_Reactome_membership_data.tsv",
+        "start_row": 5,
+        "rows": 1418,
+        "cols": 4
+      }
+    ]
+  },
+  {
+    "order": 62,
+    "sheet": "Takasugi_metadata",
+    "rows": 25,
+    "cols": 11,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "Takasugi_metadata_metadata.tsv",
+        "start_row": 1,
+        "rows": 4,
+        "cols": 11
+      },
+      {
+        "file": "Takasugi_metadata_data.tsv",
+        "start_row": 5,
+        "rows": 21,
+        "cols": 11
+      }
+    ]
+  },
+  {
+    "order": 63,
+    "sheet": "Takasugi_integrated_summary",
+    "rows": 12518,
+    "cols": 9,
+    "source_rows": 1,
+    "description_rows": 2,
+    "header_rows": 4,
+    "blocks": [
+      {
+        "file": "Takasugi_integrated_summary_metadata.tsv",
+        "start_row": 1,
+        "rows": 4,
+        "cols": 9
+      },
+      {
+        "file": "Takasugi_integrated_summary_data.tsv",
+        "start_row": 5,
+        "rows": 12514,
+        "cols": 9
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+#start_row=5	cols=2
+S:Workbook scope	S:Panel-specific source data plus comprehensive reviewer-requested gene, pathway-membership, and multi-omics feature-level tables.
+S:Panel sheets	S:F1b through SF6g retain the final plotted values, statistics, full ORA tables, gene lists, and network node/edge data.
+S:GSE39445 model	S:expression ~ condition + sin(2*pi*phase/24) + cos(2*pi*phase/24) + condition:sin(2*pi*phase/24) + condition:cos(2*pi*phase/24), fitted with limma duplicateCorrelation and participant as the repeated-measures block.
+S:Final human SR-down definition	S:phase-adjusted log2FC < 0, phase-model BH FDR < 0.05, delta MESOR < 0, and MESOR BH FDR < 0.05.
+S:Hallmark/Reactome memberships	S:MSigDB v2026.1 Hallmark and Reactome memberships restricted to the 19,541 genes tested in GSE39445. Each pathway is represented by complete semicolon-delimited tested and direction-matched gene lists. Participant-aware gene statistics are in GSE39445_all_genes; pathway statistics are in F1f and F1g.
+S:Takasugi curation	S:The 3.63-million-row replicate table was curated to one row per tissue-gene combination in the complete concordant RNA-protein aging-decline universe used by the final cross-omic meta-analysis. The submitted table retains RNA/WTL/LSF trajectory slopes and SR-convergence flags, including selected genes that did not converge with SR. Panel-specific age means remain in F4d and related figure-source sheets. Replicate-level values can be regenerated from the archived raw table and were not the reporting unit of the final directional meta-analysis.
+S:Takasugi raw table	S:The complete replicate-level public/source table remains in GitHub_upload/source_data/Takasugi_2024/Figure_4_multiomics_long.csv.gz and is regenerated/consumed by the R workflow.
+S:Takasugi trajectory slope	S:Linear trajectory slope reported by the finalized Figure_4_trajectory_features.csv used by the figure-generation workflow.
+S:Multiple testing	S:Gene-level and pathway-level adjusted values use Benjamini-Hochberg FDR unless explicitly identified as empirical or nominal P values.
+S:Reactome backgrounds	S:Each ORA/network panel reports its tested-gene universe and complete raw P/BH-FDR table in the corresponding F4, SF3, SF4, SF5 or SF6 sheet.
+S:SACS definition	S:Acute SD induction (logFC > 0, FDR < 0.05) plus positive acute-to-chronic attenuation plus brain aging decline (slope < 0, nominal P < 0.05); 553 genes.

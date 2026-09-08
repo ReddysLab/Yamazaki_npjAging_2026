@@ -1,0 +1,6 @@
+#start_row=1	cols=9
+S:Source	S:source_materials/SACS_reactome_update_outputs/SACS_acuteSD_up_x_positive_attenuation_venn_stats.csv	N:	N:	N:	N:	N:	N:	N:
+S:Description	S:Supplementary Fig. 2e acute SD-up versus positive chronic-attenuation Venn/Fisher statistics.	N:	N:	N:	N:	N:	N:	N:
+N:	N:	N:	N:	N:	N:	N:	N:	N:
+S:universe_n	S:acute_sd_up_n	S:positive_attenuation_n	S:overlap_n	S:acute_only_n	S:positive_attenuation_only_n	S:neither_n	S:fisher_or	S:fisher_p
+D:14493	D:2374	D:7321	D:2267	D:107	D:5054	D:7065	D:29.6121582485032	D:0

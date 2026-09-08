@@ -1,0 +1,5 @@
+#start_row=1	cols=4
+S:Source	S:MSigDB v2026.1 Hallmark plus final participant-aware GSE39445 and CAMERA outputs	N:	N:
+S:Description	S:Complete Hallmark memberships for the tested universe, stored as one row per pathway with semicolon-delimited gene lists. Pathway statistics are in F1f; gene statistics are in GSE39445_all_genes.	N:	N:
+N:	N:	N:	N:
+S:pathway	S:tested_gene_n	S:tested_genes	S:direction_matched_genes

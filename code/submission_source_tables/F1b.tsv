@@ -1,0 +1,14 @@
+#start_row=1	cols=4
+S:Source	S:source_materials/GitHub_ready/Figure1/Tables/Figure_1B_source_data.csv	N:	N:
+S:Description	S:Acute SD-responsive proteostasis genes plotted in Fig. 1b.	N:	N:
+N:	N:	N:	N:
+S:gene_symbol	S:log2_fc_sd_ns	S:source_file	S:source_fc_col
+S:Hspa1b	D:0.81	S:Mongrain_Supp_Table_4.txt	S:sham_sd_bl_log_fc
+S:Hspa5	D:0.77	S:Mongrain_Supp_Table_4.txt	S:sham_sd_bl_log_fc
+S:Pdia6	D:0.66	S:Mongrain_Supp_Table_4.txt	S:sham_sd_bl_log_fc
+S:Hsph1	D:0.6	S:Mongrain_Supp_Table_4.txt	S:sham_sd_bl_log_fc
+S:Creld2	D:0.58	S:Mongrain_Supp_Table_4.txt	S:sham_sd_bl_log_fc
+S:Hspa1a	D:0.53	S:Mongrain_Supp_Table_4.txt	S:sham_sd_bl_log_fc
+S:Hsp90b1	D:0.46	S:Mongrain_Supp_Table_4.txt	S:sham_sd_bl_log_fc
+S:Cryab	D:0.35	S:Mongrain_Supp_Table_4.txt	S:sham_sd_bl_log_fc
+S:Hspa4l	D:0.25	S:Mongrain_Supp_Table_4.txt	S:sham_sd_bl_log_fc
